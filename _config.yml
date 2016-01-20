@@ -9,9 +9,11 @@
 title: Web Design and Usability AVT 415
 email: agarci44@gmu.edu
 description: > # this means to ignore newlines until "baseurl:"
-Class website for AVT 415
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "/advanced-web-design" # the subpath of your site, e.g. /blog
-url: "http://thehonestape.github.io" # the base hostname & protocol for your site
+url: "http://thehonestape.github.io/advanced-web-design" # the base hostname & protocol for your site
 github_username:  thehonestape
 
 # Build settings
