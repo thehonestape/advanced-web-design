@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Web Design AVT 217</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/intro-to-web-design/</link>
+    <atom:link href="http://yourdomain.com/intro-to-web-design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Jan 2016 12:31:47 -0500</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 12:31:47 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome back to school!</title>
+        <description>&lt;p&gt;Hello and welcome to AVT 217 - Introduction to Web Design&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JNezZV4648I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Our first class will be fairly relaxed. The first couple of minutes will be a quick test of technical ability.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-class-exercise&quot;&gt;In class exercise&lt;/h2&gt;
+&lt;p&gt;Using any resources at your disposal, design a quck web page that has a picture of yourself, along with a snippet about yourself and what you expect to get out of this class.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;information-super-highway&quot;&gt;Information Super Highway&lt;/h2&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hGB-4CxM8KE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-is-the-internet&quot;&gt;What is the Internet????&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UlJku_CSyNg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;dont-fear-the-internet&quot;&gt;Don’t Fear the Internet&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.dontfeartheinternet.com/01-not-tubes/&quot;&gt;Internet, Not a Series of Tubes&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;after-class&quot;&gt;After class&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Join our &lt;a href=&quot;https://intro-to-web-slack.herokuapp.com/&quot;&gt;Slack Channel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;https://github.com/join&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;https://codepen.io/signup/free&quot;&gt;Code Pen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Download &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exercise 1: Due at Next Class
+A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/intro-to-web-design/class/2016/01/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/intro-to-web-design/class/2016/01/20/welcome-to-jekyll.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+  </channel>
+</rss>
