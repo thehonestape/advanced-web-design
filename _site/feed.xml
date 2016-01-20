@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction to Web Design AVT 217</title>
+    <title>Web Design and Usability AVT 415</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/intro-to-web-design/</link>
-    <atom:link href="http://yourdomain.com/intro-to-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 12:31:47 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 12:31:47 -0500</lastBuildDate>
+    <link>http://yourdomain.com/advanced-web-design/</link>
+    <atom:link href="http://yourdomain.com/advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Jan 2016 12:48:18 -0500</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 12:48:18 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -18,7 +18,12 @@
 &lt;p&gt;Our first class will be fairly relaxed. The first couple of minutes will be a quick test of technical ability.&lt;/p&gt;
 
 &lt;h2 id=&quot;in-class-exercise&quot;&gt;In class exercise&lt;/h2&gt;
-&lt;p&gt;Using any resources at your disposal, design a quck web page that has a picture of yourself, along with a snippet about yourself and what you expect to get out of this class.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Sign up or sign into &lt;a href=&quot;http://codepen.io/&quot;&gt;Codpen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Download a picture of yourself (please be appropriate)&lt;/li&gt;
+  &lt;li&gt;Display your image, centered on the page at 300x300&lt;/li&gt;
+  &lt;li&gt;Below your image, write a snippet about yourself and what you expect to get out of this class.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 
@@ -53,8 +58,8 @@ A general exercise on image and file management. Have not finished setting up sp
 
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/intro-to-web-design/class/2016/01/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/intro-to-web-design/class/2016/01/20/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/advanced-web-design/class/2016/01/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/advanced-web-design/class/2016/01/20/welcome-to-jekyll.html</guid>
         
         
         <category>class</category>

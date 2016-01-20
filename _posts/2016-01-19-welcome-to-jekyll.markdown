@@ -11,7 +11,10 @@ Our first class will be fairly relaxed. The first couple of minutes will be a qu
 
 In class exercise
 ------
-Using any resources at your disposal, design a quck web page that has a picture of yourself, along with a snippet about yourself and what you expect to get out of this class.
+1. Sign up or sign into [Codpen](http://codepen.io/)
+2. Download a picture of yourself (please be appropriate)
+3. Display your image, centered on the page at 300x300
+4. Below your image, write a snippet about yourself and what you expect to get out of this class.
 
 ___
 
