@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Design and Usability AVT 415</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://thehonestape.github.io/advanced-web-design/advanced-web-design/</link>
-    <atom:link href="http://thehonestape.github.io/advanced-web-design/advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 13:22:45 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 13:22:45 -0500</lastBuildDate>
+    <description>Course site for AVT 415</description>
+    <link>http://thehonestape.github.io//advanced-web-design/</link>
+    <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Jan 2016 13:31:36 -0500</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 13:31:36 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -58,8 +57,8 @@ A general exercise on image and file management. Have not finished setting up sp
 
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io/advanced-web-design/advanced-web-design/class/2016/01/20/welcome-back.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io/advanced-web-design/advanced-web-design/class/2016/01/20/welcome-back.html</guid>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/01/20/welcome-back.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/01/20/welcome-back.html</guid>
         
         
         <category>class</category>
