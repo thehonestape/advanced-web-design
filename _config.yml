@@ -11,7 +11,7 @@ email: agarci44@gmu.edu
 description: > # this means to ignore newlines until "baseurl:"
 Class website for AVT 415
 baseurl: "/advanced-web-design" # the subpath of your site, e.g. /blog
-url: "http://thehonestape.github.io/advanced-web-design" # the base hostname & protocol for your site
+url: "http://thehonestape.github.io" # the base hostname & protocol for your site
 github_username:  thehonestape
 
 # Build settings
