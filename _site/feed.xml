@@ -4,15 +4,15 @@
     <title>Web Design and Usability AVT 415</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/advanced-web-design/</link>
-    <atom:link href="http://yourdomain.com/advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 12:48:18 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 12:48:18 -0500</lastBuildDate>
+    <link>http://thehonestape.github.io/advanced-web-design/advanced-web-design/</link>
+    <atom:link href="http://thehonestape.github.io/advanced-web-design/advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Jan 2016 13:22:45 -0500</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 13:22:45 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Welcome back to school!</title>
-        <description>&lt;p&gt;Hello and welcome to AVT 217 - Introduction to Web Design&lt;/p&gt;
+        <description>&lt;p&gt;Hello and welcome to Web Design and Usability AVT 415&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JNezZV4648I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Our first class will be fairly relaxed. The first couple of minutes will be a quick test of technical ability.&lt;/p&gt;
@@ -47,7 +47,7 @@
 &lt;h2 id=&quot;after-class&quot;&gt;After class&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Join our &lt;a href=&quot;https://intro-to-web-slack.herokuapp.com/&quot;&gt;Slack Channel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Join our &lt;a href=&quot;https://slack-advanced-web.herokuapp.com/&quot;&gt;Slack Channel&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Sign up for &lt;a href=&quot;https://github.com/join&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Sign up for &lt;a href=&quot;https://codepen.io/signup/free&quot;&gt;Code Pen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Download &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt;&lt;/li&gt;
@@ -58,8 +58,8 @@ A general exercise on image and file management. Have not finished setting up sp
 
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/advanced-web-design/class/2016/01/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/advanced-web-design/class/2016/01/20/welcome-to-jekyll.html</guid>
+        <link>http://thehonestape.github.io/advanced-web-design/advanced-web-design/class/2016/01/20/welcome-back.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io/advanced-web-design/advanced-web-design/class/2016/01/20/welcome-back.html</guid>
         
         
         <category>class</category>
