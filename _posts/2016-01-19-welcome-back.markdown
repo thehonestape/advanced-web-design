@@ -51,8 +51,18 @@ After class
 
 
 Exercise 1: Due at Next Class
-A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.
+<del>A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.</del>
 
+We tested your coding knowledge in class but we did not cover Photoshop, which we will be using in class. [Here is a link to a PSD file.](https://www.dropbox.com/s/xhnkm1n2j9knx7p/profile-card.psd?dl=0) Follow the instructions included in the file.
+
+After you have finished this exercise, in Codepen, write the simple HTML for this card. No CSS, we will cover it in class. Pay attention to your syntax and style, making sure you are commenting and indenting.
+
+If you remember from the first "Don't Fear The Internet" video, raw HTML will not look finished.
+
+* [Hint](http://codepen.io/thehonestape/pen/Qyaoev)
+
+
+Notice how the layer names from Photoshop are reflected. Always try to keep all of your names and files in order.
 
 
 [slack]: https://slack-advanced-web.herokuapp.com/

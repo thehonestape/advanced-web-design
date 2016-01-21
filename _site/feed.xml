@@ -5,8 +5,8 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 13:34:46 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 13:34:46 -0500</lastBuildDate>
+    <pubDate>Thu, 21 Jan 2016 18:24:06 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Jan 2016 18:24:06 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -54,7 +54,19 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Exercise 1: Due at Next Class
-A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.&lt;/p&gt;
+&lt;del&gt;A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;We tested your coding knowledge in class but we did not cover Photoshop, which we will be using in class. &lt;a href=&quot;https://www.dropbox.com/s/xhnkm1n2j9knx7p/profile-card.psd?dl=0&quot;&gt;Here is a link to a PSD file.&lt;/a&gt; Follow the instructions included in the file.&lt;/p&gt;
+
+&lt;p&gt;After you have finished this exercise, in Codepen, write the simple HTML for this card. No CSS, we will cover it in class. Pay attention to your syntax and style, making sure you are commenting and indenting.&lt;/p&gt;
+
+&lt;p&gt;If you remember from the first “Don’t Fear The Internet” video, raw HTML will not look finished.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codepen.io/thehonestape/pen/Qyaoev&quot;&gt;Hint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notice how the layer names from Photoshop are reflected. Always try to keep all of your names and files in order.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
