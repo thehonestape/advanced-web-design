@@ -5,9 +5,40 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Jan 2016 18:29:31 -0500</pubDate>
-    <lastBuildDate>Thu, 21 Jan 2016 18:29:31 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2016 09:56:45 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2016 09:56:45 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Snow Day</title>
+        <description>&lt;h2 id=&quot;snow-day&quot;&gt;Snow Day&lt;/h2&gt;
+&lt;p&gt;I hope everyone stayed safe during the storm. I also hope you have uploaded your completed exercise to #exercises in &lt;a href=&quot;https://mason-advanced-web.slack.com/messages/exercises/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since we don’t have class today, we can’t review your beginning CSS layout for the card. We’ll go over it the first part of class on Wednesday.&lt;/p&gt;
+
+&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
+
+&lt;p&gt;The next class will cover some coding basics but really going to focus on the responsive design process.&lt;/p&gt;
+
+&lt;h2 id=&quot;to-be-completed-by-wednesday-127&quot;&gt;To be completed by Wednesday 1/27&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Review the Intro, Chapter 1-2 of HTML &amp;amp; CSS (see the syllabus if you don’t remember the book). We will have an in class exercise over this material on Wednesday, so please read the text. Should be really easy if you read the text.&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://gimmebar.com/view/4e5d47592e0aaa9c18000019&quot;&gt;Designers vs Coding by Frank Chimero&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://blog.capwatkins.com/why-designers-really-should-learn-to-code&quot;&gt;Why Designers Really Should Learn to Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;http://www.dontfeartheinternet.com/&quot;&gt;Don’t Fear the Internet Episodes 5-6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://vimeo.com/109130093&quot;&gt;Brad Frost: Atomic Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 25 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/01/25/snow-day.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/01/25/snow-day.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Welcome back to school!</title>
