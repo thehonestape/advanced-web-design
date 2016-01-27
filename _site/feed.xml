@@ -5,9 +5,175 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jan 2016 09:56:45 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 09:56:45 -0500</lastBuildDate>
+    <pubDate>Wed, 27 Jan 2016 04:25:10 -0500</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2016 04:25:10 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 3: Design Process</title>
+        <description>&lt;p&gt;We are a bit behind because of the snow day, so lots to catch up on! Lots and lots to do!&lt;/p&gt;
+
+&lt;h2 id=&quot;in-class-exercise&quot;&gt;In Class Exercise&lt;/h2&gt;
+&lt;p&gt;Download &lt;a href=&quot;https://www.dropbox.com/s/x2xsfc4rip5gk2h/exercise-2.zip?dl=0&quot;&gt;this .zip file&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a basic web package. The root folder includes a file called index. Open it in Atom, then drag and drop it to Chrome.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
+
+&lt;p&gt;Today we will be discussing web design process, focusing on the current state of web design and how things are being made today.
+&lt;a href=&quot;https://www.dropbox.com/s/m5oz7jivqy7wp5c/web_design_process.pdf?dl=0&quot;&gt;Today’s Lecture PDF: Web Design Process&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Further Links/Resources on the Web Design Process&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://bradfrost.github.io/this-is-responsive/&quot;&gt;This is Responsive: Patterns and Resources&lt;/a&gt;
+&lt;a href=&quot;http://webdesign.tutsplus.com/articles/a-designers-introduction-to-agile-methodology--cms-23349&quot;&gt;A Designer’s Introduction to “Agile” Methodology&lt;/a&gt;
+&lt;a href=&quot;https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf&quot;&gt;Design Sprint Model&lt;/a&gt;
+&lt;a href=&quot;http://www.gv.com/sprint/&quot;&gt;The Design Sprint&lt;/a&gt;
+&lt;a href=&quot;https://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/&quot;&gt;Design Better With Rapid Prototyping&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;in-class-design-assignment-ux-research-proto-personas-and&quot;&gt;In Class Design Assignment: UX Research, Proto-Personas and&lt;/h2&gt;
+
+&lt;p&gt;This exercise is meant to help you practice the principles of UX and responsive web design.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Setup&lt;/strong&gt;&lt;br /&gt;
+You have been approached by &lt;a href=&quot;http://www.districttaco.com/&quot;&gt;District Taco&lt;/a&gt; to help them design a new website.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-will-be&quot;&gt;You will be:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Conducting a very brief/quick brand audit from the site (current logo, colors, fonts, etc)&lt;/li&gt;
+  &lt;li&gt;Flesh out three proto-personas&lt;/li&gt;
+  &lt;li&gt;Design at least 3 style tiles based on your understanding/knowledge of the customers and the client’s needs.&lt;/li&gt;
+  &lt;li&gt;Design a rough wireframe of how the current site would translate to a one page website. Design with mobile-first in mind.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;From the Owner&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;Established in 2009 I was born and raised in Yucatan Mexico, when I moved to the US. My first job was in a kitchen of a restaurant in Denver,
+CO. I got tired of only eating the American food the restaurant served. I started to cook my mom&#39;s food to eat instead.  That&#39;s when my Yucatan culinary skills began. After 9 years, my wife and I moved to VA to start a new life.  I found a good construction job that paid well, unfortunate I got laid off. I spent a lot of time looking for another construction job and wasn&#39;t having any luck. My wife was pregnant and was getting depressed because of the lack of work and income. But I was getting support of friends. Every weekend we would get together and I would cook for them.  They always told me that my food was delicious and said I should open a restaurant.  I mentioned to my neighbor how my other friends were suggesting I open a restaurant. He offered to open the business with me including investing.  That&#39;s how District Taco was born.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;“What I would like to see in a redesign:”&lt;/strong&gt;&lt;br /&gt;
+I want to further showcase the vibrant story of the company. The current design does not reflect our true character. To get a better idea of who we are, check out the inside of our restaurant. Take a look at the original art in the building, the colorful furniture and our colorful customers.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Proto-Personas&lt;/strong&gt;&lt;br /&gt;
+Proto personas are a way to get designers and clients on the same page in the first phase of a design project. For this exercise I want you to flesh out the rest of these proto-personas based on user surveys.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://randomuser.me/api/portraits/med/men/68.jpg&quot; alt=&quot;Mike&quot; /&gt;&lt;br /&gt;
+&lt;strong&gt;Mike&lt;/strong&gt;&lt;br /&gt;
+Age: 42&lt;br /&gt;
+Lawyer on Capitol Hill&lt;br /&gt;
+Hobbies: Skydiving, hiking, family&lt;/p&gt;
+&lt;blockquote&gt; Awesome food in one of the best parts of Washington, D.C! Prices are cheap which make this place a go-to lunch destination for many working professionals. If you do intend on eating here for lunch during the workweek, be sure to order in advance online. Place gets packed quickly and stays that way through the entire afternoon. Despite the crowds, also a great place to see all walks of life in Washington, DC.&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://randomuser.me/api/portraits/med/men/44.jpg&quot; alt=&quot;Roland&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Roland&lt;/strong&gt;&lt;br /&gt;
+Age: 22&lt;br /&gt;
+Bartender at a trendy bar &lt;br /&gt;
+Hobbies: Live music, traveling&lt;/p&gt;
+&lt;blockquote&gt;Overall, it&#39;s not that great. I&#39;m from LA/SD and have eaten at so many great Mexican restaurants. I was hoping that this place would be at least decent, but I was left disappointed. I wouldn&#39;t say that it was horrible...at least it was edible. I guess my search for good Mexican food in DC continues.&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://randomuser.me/api/portraits/med/women/72.jpg&quot; alt=&quot;Catherine&quot; /&gt;&lt;br /&gt;
+&lt;strong&gt;Catherine&lt;/strong&gt;&lt;br /&gt;
+Age: 27&lt;br /&gt;
+Executive Director at a non-profit&lt;br /&gt;
+Hobbies: Family, arts and crafts&lt;/p&gt;
+&lt;blockquote&gt;  I don&#39;t think anything can top Chipotle&#39;s place as my favorite burrito joint, but DT has some cool options, a fresh salsa bar, and is definitely worth a visit (if not just to see what all the fuss is about). I came on a Tuesday evening and got a veggie burrito ($7). I probably should have gotten the fish as others suggested since the veggie seemed a little bland - I ended up making a few trips to the salsa bar to get more flavor. I would stick to non-burrito options next time so I won&#39;t as inclined to compare it to Chipotle.&lt;/blockquote&gt;
+
+&lt;p&gt;Quick example of how simple you can make these for our purposes&lt;br /&gt;
+&lt;img src=&quot;https://photos-3.dropbox.com/t/2/AACow5w0cpgYdNFICXb17LPrOnKwxbllEH25SDJKkPXerw/12/25741860/png/32x32/1/_/1/2/Screenshot%202016-01-27%2001.07.37.png/ELTpsBMYyscCIAcoBw/cX0oUfMk5Tjk8jVNAqJ4AcrfT2baOzZUDFJcB3k7jMQ?size=2048x1536&amp;amp;size_mode=3&quot; alt=&quot;mike&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Understanding the problem with restaurant website design&lt;/strong&gt;&lt;br /&gt;
+Written by the perspective of customers, gives a good break down of what a regular person expects in a very specific type of website. Use your personal frustration with most restaurant websites and&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slate.com/articles/technology/technology/2011/08/overdone.single.html&quot;&gt;Why are restaurant websites so horrifically bad?&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.esquire.com/food-drink/restaurants/a35466/bars-restaurants-terrible-websites/&quot;&gt;Why Are So Many Bar and Restaurant Websites So Terrible?&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Finish as much as you can in class and ask questions. You will have to have the proto-personas, style tiles and a wireframe complete by next class.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Resources:&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.uxbooth.com/articles/personas-putting-the-focus-back-on-the-user/&quot;&gt;Personas: Putting the Focus Back on the User&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://uxmag.com/articles/using-proto-personas-for-executive-alignment&quot;&gt;Using Proto-Personas for Executive Alignment&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.dtelepathy.com/blog/?p=15793&quot;&gt;How to Make Proto-Personas and Get Everyone on the Same Page&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://uxoslo.com/2013/10/14/proto-personas/&quot;&gt;Reducing costs with Proto-Personas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/115992327&quot;&gt;Watch: Faster Design Decisions with Style Tiles by Samantha Warren – An Event Apart Video&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://alistapart.com/article/style-tiles-and-how-they-work&quot;&gt;Style Tiles and How They Work&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://echo.co/blog/style-tiles-no-its-not-home-page&quot;&gt;Style Tiles: “No, It’s Not The Home Page”&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://styletil.es/&quot;&gt;Style Tiles&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype&quot;&gt;Our New Responsive Design Deliverable: The Style Prototype&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;to-be-completed-by-monday-february-1&quot;&gt;To be completed by Monday, February 1&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proto-persona profiles (see above)&lt;/li&gt;
+  &lt;li&gt;Style Tiles (see above)&lt;/li&gt;
+  &lt;li&gt;Site wireframe (see above)&lt;/li&gt;
+  &lt;li&gt;Development Exercise (see below)&lt;/li&gt;
+  &lt;li&gt;Review Chapters 3-8 of Duckett.&lt;/li&gt;
+  &lt;li&gt;Read Intro and Chapters 1-4 of Krug&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;http://www.dontfeartheinternet.com/&quot;&gt;Don’t Fear the Internet Episodes 7-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development-exercise-due-on-monday-february-1&quot;&gt;Development Exercise Due on Monday, February 1&lt;/h2&gt;
+&lt;p&gt;The goal of this exercise is to have you set up your domain/website for projects in this class, also to get you further familiar with HTML and the Atom coding interface.You will learn to properly construct an HTML document, insert text and image links and format basic text attributes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Set Up Your Website&lt;/strong&gt;&lt;br /&gt;
+I imagine there will be some questions here, so this exercise needs to be started in class.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Buy a domain. This can be done several ways. Let’s talk about it in class. (if you already have one, follow the next steps)&lt;/li&gt;
+  &lt;li&gt;Set up your host. I’m familiar with &lt;a href=&quot;https://www.bluehost.com&quot;&gt;Bluehost&lt;/a&gt;. It is very cheap and should suffice for this class.&lt;/li&gt;
+  &lt;li&gt;Set up a subdomain for this class. Titled “learning”&lt;a href=&quot;https://my.bluehost.com/cgi/help/274&quot;&gt;Instructions&lt;/a&gt;&lt;br /&gt;
+4 Connect via FTP. https://my.bluehost.com/cgi/help/264&lt;/li&gt;
+  &lt;li&gt;Find your subdomain folder titled “learning”&lt;/li&gt;
+  &lt;li&gt;Create a folder called exercises&lt;/li&gt;
+  &lt;li&gt;Create a folder called ex3&lt;/li&gt;
+  &lt;li&gt;Put all of the files for this exercise in that folder.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m fairly positive I’m missing some steps here. Let’s figure it out in class.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Exercise&lt;/strong&gt;&lt;br /&gt;
+Make a copy of the in class exercise as a base for this project (ie folder structure, file placement)&lt;/p&gt;
+
+&lt;p&gt;Go to food.com find recipe with photos and a significant number of steps (at least 4).
+Copying information from the original page, use your knowledge of tags to create an HTML page that includes (at
+least) the title, total time to prepare, photo, ingredients list, directions, and nutrition facts. You may include other
+content from the recipe if you’d like.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-proper-html-tags-to-sensibly-format-all-parts-of-the-recipe--headlinesh1h2h3-etc-lists-etc-this-includes&quot;&gt;Use proper HTML tags to sensibly format all parts of the recipe — headlines&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;,&amp;lt;h2&amp;gt;,&amp;lt;h3&amp;gt;, etc&lt;/code&gt;, lists, etc. This includes:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ingredients should be an unordered (bulleted) list.&lt;/li&gt;
+  &lt;li&gt;Directions should be an ordered (numbered) list.&lt;/li&gt;
+  &lt;li&gt;The title should link &lt;code class=&quot;highlighter-rouge&quot;&gt;(&amp;lt;a href=”...”&amp;gt;)&lt;/code&gt; to the original recipe page on food.com.&lt;/li&gt;
+  &lt;li&gt;The nutrition facts must be in a table.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Upload to a folder called “ex3” on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex3/&lt;br /&gt;
+Once your link works, post it in Slack in #exercises&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/01/27/class-3.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/01/27/class-3.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Snow Day</title>
