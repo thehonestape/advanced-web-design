@@ -5,16 +5,16 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 12:26:50 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 12:26:50 -0500</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2016 14:08:41 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 14:08:41 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Class 4: Mobile First and Prototyping</title>
         <description>&lt;h2 id=&quot;mobile-first&quot;&gt;Mobile First&lt;/h2&gt;
-&lt;p&gt;We will be discussing what it means to design “mobile-first”.
-&lt;a href=&quot;https://vimeo.com/38187066&quot;&gt;Video: Luke Wroblewski-Mobile First&lt;/a&gt;
-[Why Is It So Easy to Get “Mobile First” Wrong](Why is it so Easy to Get “Mobile First” Wrong?)&lt;/p&gt;
+&lt;p&gt;We will be discussing what it means to design “mobile-first”.&lt;br /&gt;
+&lt;a href=&quot;https://vimeo.com/38187066&quot;&gt;Video: Luke Wroblewski-Mobile First&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://deep.design/mobile-first/&quot;&gt;Why Is It So Easy to Get “Mobile First” Wrong&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sketching-and-protoyping&quot;&gt;Sketching and Protoyping&lt;/h2&gt;
 &lt;p&gt;Today we will be diving further into prototyping for the web. We will be doing hands on practice with &lt;a href=&quot;http://www.invisionapp.com/&quot;&gt;Invision&lt;/a&gt;&lt;/p&gt;

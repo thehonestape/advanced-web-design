@@ -7,9 +7,9 @@ categories: class
 
 Mobile First
 ------
-We will be discussing what it means to design "mobile-first".
-[Video: Luke Wroblewski-Mobile First](https://vimeo.com/38187066)
-[Why Is It So Easy to Get "Mobile First" Wrong](Why is it so Easy to Get "Mobile First" Wrong?)
+We will be discussing what it means to design "mobile-first".  
+[Video: Luke Wroblewski-Mobile First](https://vimeo.com/38187066)  
+[Why Is It So Easy to Get "Mobile First" Wrong](http://deep.design/mobile-first/)
 
 
 Sketching and Protoyping
