@@ -5,9 +5,92 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 04:25:10 -0500</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 04:25:10 -0500</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2016 12:26:50 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 12:26:50 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 4: Mobile First and Prototyping</title>
+        <description>&lt;h2 id=&quot;mobile-first&quot;&gt;Mobile First&lt;/h2&gt;
+&lt;p&gt;We will be discussing what it means to design “mobile-first”.
+&lt;a href=&quot;https://vimeo.com/38187066&quot;&gt;Video: Luke Wroblewski-Mobile First&lt;/a&gt;
+[Why Is It So Easy to Get “Mobile First” Wrong](Why is it so Easy to Get “Mobile First” Wrong?)&lt;/p&gt;
+
+&lt;h2 id=&quot;sketching-and-protoyping&quot;&gt;Sketching and Protoyping&lt;/h2&gt;
+&lt;p&gt;Today we will be diving further into prototyping for the web. We will be doing hands on practice with &lt;a href=&quot;http://www.invisionapp.com/&quot;&gt;Invision&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;project-1&quot;&gt;Project 1&lt;/h2&gt;
+&lt;p&gt;Building off the process that we practiced in class last week, I give you big Project 1.
+&lt;a href=&quot;https://docs.google.com/document/d/1senVl1IKDgq0Gr4uTbvEP7EWdJCVfsf5NHcJN5zRIbM/&quot;&gt;Full Link to Project 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;to-be-completed-by-wednesday-february-3&quot;&gt;To be completed by Wednesday, February 3&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Review Chapters 10, 11, 12 of Duckett.&lt;/li&gt;
+  &lt;li&gt;Read Chapters 6-7 of Krug&lt;/li&gt;
+  &lt;li&gt;Read chapters 1-3 of Shiffman, seminar will be February 10 (See syllabus about seminars)&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://www.creativebloq.com/web-design/how-use-html-boilerplate-11513798&quot;&gt;How to use an HTML boilerplate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development-exercise-due-on-wednesday-february-3&quot;&gt;Development Exercise Due on Wednesday, February 3&lt;/h2&gt;
+
+&lt;p&gt;The goal of this exercise is to help you learn to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Familiarize yourself with the HTML5 Boilerpate&lt;/li&gt;
+  &lt;li&gt;Better understand HTML5 structure ie &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;header&amp;gt;&amp;lt;/header&amp;gt;&amp;lt;section&amp;gt;&amp;lt;/section&amp;gt; etc&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Better understanding of responsive properties&lt;/li&gt;
+  &lt;li&gt;Be able to change CSS properties&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Exercise 4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Structure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download the &lt;a href=&quot;http://www.initializr.com/&quot;&gt;HTML5 Boilerplate Responsive Template&lt;/a&gt; - &lt;a href=&quot;http://www.initializr.com/builder?izr-responsive&amp;amp;jquerymin&amp;amp;h5bp-iecond&amp;amp;h5bp-chromeframe&amp;amp;h5bp-favicon&amp;amp;h5bp-appletouchicons&amp;amp;modernizrrespond&amp;amp;h5bp-css&amp;amp;h5bp-csshelpers&amp;amp;h5bp-mediaqueryprint&amp;amp;izr-emptyscript&quot;&gt;Direct Link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Expand the zip file and rename the folder ex4&lt;/li&gt;
+  &lt;li&gt;Change the code &lt;code class=&quot;highlighter-rouge&quot;&gt;h1.title&lt;/code&gt; to say &lt;code class=&quot;highlighter-rouge&quot;&gt;My Recipe&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Change the three nav links &lt;code class=&quot;highlighter-rouge&quot;&gt;nav ul li a&lt;/code&gt; to Ingredients, Directions, Nutrition Information respectively&lt;/li&gt;
+  &lt;li&gt;Change &lt;code class=&quot;highlighter-rouge&quot;&gt;article header h1&lt;/code&gt; to the name of your recipe but make sure it links to the original recipe. You will be mixing tags. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&amp;lt;a href=&quot;/&quot;&amp;gt;Your recipe&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Place your Ingredients , Directions and Nutrition Information properly onto the page, following the template structure.&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h2&amp;gt;Ingredients&amp;lt;/h2&amp;gt; &amp;lt;ul&amp;gt;....etc&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Place your image in the img folder and place it into the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;aside&amp;gt;&lt;/code&gt; section of the site.&lt;/li&gt;
+  &lt;li&gt;Place your name in the footer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Anchor Links&lt;/strong&gt;&lt;br /&gt;
+You will be creating anchor links/bookmarks in your document to allow the navigation to jump to a section of the site.&lt;br /&gt;
+* In your navigation, the link in your navigation for Ingredients should link to the Ingredients section of your site, Direction to the Direction section, Nutrition Information to the Nutrition Information of the site.
+How To Documentation:
+&lt;a href=&quot;http://www.w3schools.com/html/html_links.asp&quot;&gt;HTML Links - Create a Bookmark of the W3Schools Links Article&lt;/a&gt;
+&lt;a href=&quot;http://www.codertools.com/html_guide/html_named_anchors_bookmark_links.aspx&quot;&gt;HTML Bookmark Links&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Style&lt;/strong&gt;&lt;br /&gt;
+You will be modifying the template styles to your liking. The following is the bare minimum to showcase your working knowledge of CSS.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Change the color of the header and footer and the header and footer borders.&lt;/li&gt;
+  &lt;li&gt;Change the thickness of the header and footer borders&lt;/li&gt;
+  &lt;li&gt;Change the color of the site background.&lt;/li&gt;
+  &lt;li&gt;Change the sites font-family using a google webfonts. Use the Quickuse method. For more information check out [Google’s documentation.](https://developers.google.com/fonts/docs/getting_started?hl=en&lt;/li&gt;
+  &lt;li&gt;Change the color of your table’s borders.&lt;/li&gt;
+  &lt;li&gt;Add padding to your table. Look at &lt;a href=&quot;http://www.w3schools.com/css/css_table.asp&quot;&gt;Table Padding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Make sure your table is responsive ie width set to 100%, not a set pixel amount.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Submit&lt;/strong&gt;&lt;br /&gt;
+Upload to a folder called ex4” on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex4/&lt;br /&gt;
+Once your link works, post it in Slack in #exercises&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/01/class-4.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/01/class-4.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 3: Design Process</title>
