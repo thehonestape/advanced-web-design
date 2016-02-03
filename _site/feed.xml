@@ -5,8 +5,8 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Feb 2016 16:23:40 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 16:23:40 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 16:24:50 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 16:24:50 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -62,11 +62,11 @@
 &lt;a href=&quot;http://patternlab.io/&quot;&gt;Pattern Lab - Brad Frost&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;pattern-resources&quot;&gt;Pattern Resources&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://bradfrost.github.io/this-is-responsive/patterns.html&quot;&gt;Responsive Patterns&lt;/a&gt;
-&lt;a href=&quot;http://zurb.com/patterntap&quot;&gt;Pattern Tap&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;https://bradfrost.github.io/this-is-responsive/patterns.html&quot;&gt;Responsive Patterns&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://zurb.com/patterntap&quot;&gt;Pattern Tap&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://ui-patterns.com&quot;&gt;UI Patterns&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://codepen.io/patterns/&quot;&gt;Design Patterns on Codepen&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.awwwards.com/mastering-ui-patterns-for-smarter-design.html&quot;&gt;Mastering UI Patterns for Smarter Design&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.awwwards.com/mastering-ui-patterns-for-smarter-design.html&quot;&gt;Mastering UI Patterns for Smarter Design&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;http://www.mobile-patterns.com/&quot;&gt;Mobile Patterns&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://pttrns.com/&quot;&gt;pttrns.com&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://hoverstat.es/&quot;&gt;Hover States&lt;/a&gt;&lt;/p&gt;
