@@ -6,6 +6,7 @@ categories: class
 ---
 
 #### User Patterns
+[Class Slides](https://www.dropbox.com/s/wfyndcckmo0qaur/patterns.pdf?dl=0)
 
 Conventions Are Your Friend - <em>Don't Make Me Think</em>   
 
