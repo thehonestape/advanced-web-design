@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Class 5: Patterns"
+date:   2016-02-01
+categories: class
+---
+
+#### User Patterns
+
+Conventions Are Your Friend - <em>Don't Make Me Think</em>   
+
+* Take Advantage of conventions
+* Create effective visual hierarchies
+* Break pages up into clearly defined area
+* Make it obvious what's clickable
+* Eliminate distractions
+* Format content to support scanning
+
+[UX Myth #9 - Design has to be original](http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original)
+
+
+---
+
+#### Dark Patterns
+>Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.  
+
+[darkpatterns.org](http://darkpatterns.org/)
+[Dark Patterns: Deception vs. Honesty in UI Design](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design)  
+
+---
+
+#### Team Patterns/Style Guides
+[Google Design and UI Guidelines](https://developers.google.com/web/fundamentals/design-and-ui/?hl=en)
+[Mailchimp Pattern Library](http://ux.mailchimp.com/patterns)
+[Pattern Lab - Brad Frost](http://patternlab.io/)
+
+
+#### Pattern Resources
+[Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
+[Pattern Tap](http://zurb.com/patterntap)
+[UI Patterns](http://ui-patterns.com)  
+[Design Patterns on Codepen](http://codepen.io/patterns/)  
+[Mastering UI Patterns for Smarter Design](http://www.awwwards.com/mastering-ui-patterns-for-smarter-design.html)  
+[Mobile Patterns](http://www.mobile-patterns.com/)  
+[pttrns.com](http://pttrns.com/)  
+[Hover States](http://hoverstat.es/)  
+
+
+Due on Monday Feb 8
+------
+* Progress updates one on one meetings for Project 1
+* Review Chapters 13, 14, 15 of Duckett.
+* Read Chapters 6-7 of Krug
+* <span class="highlight">Read all of Shiffman, seminar will be February 10 (See syllabus about seminars)</span>
+* Read [How to use an HTML boilerplate](http://www.creativebloq.com/web-design/how-use-html-boilerplate-11513798)

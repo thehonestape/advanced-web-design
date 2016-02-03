@@ -5,9 +5,71 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 14:08:41 -0500</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 14:08:41 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 04:45:28 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 04:45:28 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 5: Patterns</title>
+        <description>&lt;h4 id=&quot;user-patterns&quot;&gt;User Patterns&lt;/h4&gt;
+
+&lt;p&gt;Conventions Are Your Friend - &lt;em&gt;Don’t Make Me Think&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Take Advantage of conventions&lt;/li&gt;
+  &lt;li&gt;Create effective visual hierarchies&lt;/li&gt;
+  &lt;li&gt;Break pages up into clearly defined area&lt;/li&gt;
+  &lt;li&gt;Make it obvious what’s clickable&lt;/li&gt;
+  &lt;li&gt;Eliminate distractions&lt;/li&gt;
+  &lt;li&gt;Format content to support scanning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original&quot;&gt;UX Myth #9 - Design has to be original&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;dark-patterns&quot;&gt;Dark Patterns&lt;/h4&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://darkpatterns.org/&quot;&gt;darkpatterns.org&lt;/a&gt;
+&lt;a href=&quot;http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design&quot;&gt;Dark Patterns: Deception vs. Honesty in UI Design&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;team-patternsstyle-guides&quot;&gt;Team Patterns/Style Guides&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/design-and-ui/?hl=en&quot;&gt;Google Design and UI Guidelines&lt;/a&gt;
+&lt;a href=&quot;http://ux.mailchimp.com/patterns&quot;&gt;Mailchimp Pattern Library&lt;/a&gt;
+&lt;a href=&quot;http://patternlab.io/&quot;&gt;Pattern Lab - Brad Frost&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;pattern-resources&quot;&gt;Pattern Resources&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://bradfrost.github.io/this-is-responsive/patterns.html&quot;&gt;Responsive Patterns&lt;/a&gt;
+&lt;a href=&quot;http://zurb.com/patterntap&quot;&gt;Pattern Tap&lt;/a&gt;
+&lt;a href=&quot;http://ui-patterns.com&quot;&gt;UI Patterns&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://codepen.io/patterns/&quot;&gt;Design Patterns on Codepen&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.awwwards.com/mastering-ui-patterns-for-smarter-design.html&quot;&gt;Mastering UI Patterns for Smarter Design&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.mobile-patterns.com/&quot;&gt;Mobile Patterns&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://pttrns.com/&quot;&gt;pttrns.com&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://hoverstat.es/&quot;&gt;Hover States&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;due-on-monday-feb-8&quot;&gt;Due on Monday Feb 8&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Progress updates one on one meetings for Project 1&lt;/li&gt;
+  &lt;li&gt;Review Chapters 13, 14, 15 of Duckett.&lt;/li&gt;
+  &lt;li&gt;Read Chapters 6-7 of Krug&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;highlight&quot;&gt;Read all of Shiffman, seminar will be February 10 (See syllabus about seminars)&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://www.creativebloq.com/web-design/how-use-html-boilerplate-11513798&quot;&gt;How to use an HTML boilerplate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/01/class-5.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/01/class-5.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 4: Mobile First and Prototyping</title>
