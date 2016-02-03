@@ -21,18 +21,35 @@ Conventions Are Your Friend - <em>Don't Make Me Think</em>
 
 ---
 
-#### Dark Patterns
->Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.  
+#### Hamburger Icon  
 
-[darkpatterns.org](http://darkpatterns.org/)
-[Dark Patterns: Deception vs. Honesty in UI Design](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design)  
+[Why and How to Avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/)
+[How to Sove the Hamburger Menu Problem](http://www.webdesignerdepot.com/2014/06/how-to-solve-the-hamburger-icon-problem/)  
+
+Hamburger Icon Problems
+
+* Lower Discoverability  
+*  Less Efficient
+*  Clash with Platform Navigation Patterns
+*  Not Glanceable
+
 
 ---
 
-#### Team Patterns/Style Guides
-[Google Design and UI Guidelines](https://developers.google.com/web/fundamentals/design-and-ui/?hl=en)
-[Mailchimp Pattern Library](http://ux.mailchimp.com/patterns)
-[Pattern Lab - Brad Frost](http://patternlab.io/)
+#### Dark Patterns
+>Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.  
+
+[darkpatterns.org](http://darkpatterns.org/)  
+[Dark Patterns: Deception vs. Honesty in UI Design](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design)  
+[Dark Patterns: Inside the Interfaces Designed to Trick You](http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you)
+
+---
+
+#### Patterns/Style Guides
+[Google Material Design Guidelines](https://www.google.com/design/spec/material-design/introduction.html)  
+[Google Design and UI Guidelines](https://developers.google.com/web/fundamentals/design-and-ui/?hl=en)  
+[Mailchimp Pattern Library](http://ux.mailchimp.com/patterns)  
+[Pattern Lab - Brad Frost](http://patternlab.io/)  
 
 
 #### Pattern Resources

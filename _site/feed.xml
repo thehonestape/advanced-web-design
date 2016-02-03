@@ -5,8 +5,8 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Feb 2016 04:45:28 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Feb 2016 04:45:28 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Feb 2016 16:23:40 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Feb 2016 16:23:40 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,19 +28,37 @@
 
 &lt;hr /&gt;
 
+&lt;h4 id=&quot;hamburger-icon&quot;&gt;Hamburger Icon&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/&quot;&gt;Why and How to Avoid Hamburger Menus&lt;/a&gt;
+&lt;a href=&quot;http://www.webdesignerdepot.com/2014/06/how-to-solve-the-hamburger-icon-problem/&quot;&gt;How to Sove the Hamburger Menu Problem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hamburger Icon Problems&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lower Discoverability&lt;/li&gt;
+  &lt;li&gt;Less Efficient&lt;/li&gt;
+  &lt;li&gt;Clash with Platform Navigation Patterns&lt;/li&gt;
+  &lt;li&gt;Not Glanceable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
 &lt;h4 id=&quot;dark-patterns&quot;&gt;Dark Patterns&lt;/h4&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://darkpatterns.org/&quot;&gt;darkpatterns.org&lt;/a&gt;
-&lt;a href=&quot;http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design&quot;&gt;Dark Patterns: Deception vs. Honesty in UI Design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://darkpatterns.org/&quot;&gt;darkpatterns.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design&quot;&gt;Dark Patterns: Deception vs. Honesty in UI Design&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you&quot;&gt;Dark Patterns: Inside the Interfaces Designed to Trick You&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;team-patternsstyle-guides&quot;&gt;Team Patterns/Style Guides&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/design-and-ui/?hl=en&quot;&gt;Google Design and UI Guidelines&lt;/a&gt;
-&lt;a href=&quot;http://ux.mailchimp.com/patterns&quot;&gt;Mailchimp Pattern Library&lt;/a&gt;
+&lt;h4 id=&quot;patternsstyle-guides&quot;&gt;Patterns/Style Guides&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/design/spec/material-design/introduction.html&quot;&gt;Google Material Design Guidelines&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://developers.google.com/web/fundamentals/design-and-ui/?hl=en&quot;&gt;Google Design and UI Guidelines&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://ux.mailchimp.com/patterns&quot;&gt;Mailchimp Pattern Library&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://patternlab.io/&quot;&gt;Pattern Lab - Brad Frost&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;pattern-resources&quot;&gt;Pattern Resources&lt;/h4&gt;
