@@ -5,9 +5,60 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Feb 2016 12:37:35 -0500</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2016 12:37:35 -0500</lastBuildDate>
+    <pubDate>Wed, 10 Feb 2016 16:26:12 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 16:26:12 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 7: Seminar, Memes and Participatory Culture</title>
+        <description>&lt;h4 id=&quot;memes-in-digital-culture&quot;&gt;Memes in Digital Culture&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1G0o4ujOcmmlxh9pM0tguSZ_S6gx3AtZuAkVN3qGyRVc/edit?usp=sharing&quot;&gt;Lecture Slides&lt;/a&gt;
+Lecture follwoed by discussion&lt;/p&gt;
+
+&lt;h2 id=&quot;due-on-monday-feb-15&quot;&gt;Due on Monday Feb 15&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Continue work on Project 1&lt;/li&gt;
+  &lt;li&gt;Exercise 5 - See Below&lt;/li&gt;
+  &lt;li&gt;Visit and complete &lt;a href=&quot;http://learnlayout.com/display.html&quot;&gt;Learn Layout&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Review HTML5 Doctors’s &lt;a href=&quot;http://html5doctor.com/element-index/&quot;&gt;Element Index&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Review CSSTricks &lt;a href=&quot;https://css-tricks.com/examples/CleanCode/Beautiful-HTML.png&quot;&gt;What Beautiful HTML Looks Like&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Review CSSTricks &lt;a href=&quot;https://css-tricks.com/snippets/html/html5-page-structure/&quot;&gt;Page Structure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Save/Bookmark the &lt;a href=&quot;http://websitesetup.org/html5-cheat-sheet/&quot;&gt;HTML5 Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read Ducket Chapter 13 and 15&lt;/li&gt;
+  &lt;li&gt;Review the &lt;a href=&quot;https://css-tricks.com/almanac/properties/d/display/&quot;&gt;Display Propery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://alistapart.com/article/css-floats-101&quot;&gt;CSS Floats 1010&lt;/a&gt; and &lt;a href=&quot;http://alistapart.com/article/css-floats-101&quot;&gt;CSS Positioning 101&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://joshnh.com/weblog/why-you-should-use-inline-block-when-positioning-elements/&quot;&gt;Why you should use inline-block&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/&quot;&gt;What’s the Deal With Display: Inline-Block?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Brush up with &lt;a href=&quot;https://www.codecademy.com/learn/web&quot;&gt;HTML and CSS Fundamental on Codecademy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;exercise-5&quot;&gt;Exercise 5&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Structure&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download the [Project Files](https://www.dropbox.com/s/35m35afu6mbhj7l/ex5.zip?dl=0&lt;/li&gt;
+  &lt;li&gt;Expand the zip file and rename the folder ex5&lt;/li&gt;
+  &lt;li&gt;Make each problem look like the provided reference image by changing position, float, clear, and display properties in CSS. Do NOT alter the HTML. Make all edits in the main.css&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex6/boxes.png&quot;&gt;Reference image&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ask questions in slack if you are confused&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Submit&lt;/strong&gt;&lt;br /&gt;
+Upload our folder ex5 on your site. The URL should function everywhere at
+www.learning.yourdomain.com/exercises/ex5/&lt;br /&gt;
+Once your link works, post it in Slack in #exercises&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/10/class-7.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/10/class-7.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 6: Protype Workshop - Project Checkin</title>
