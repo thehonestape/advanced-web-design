@@ -5,9 +5,81 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Feb 2016 18:20:09 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2016 18:20:09 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2016 15:10:14 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 15:10:14 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 9: Project Presentation &amp; Typography</title>
+        <description>&lt;h3 id=&quot;project-presentations&quot;&gt;Project Presentations&lt;/h3&gt;
+&lt;p&gt;Presentations and Crits on Project 1&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;typography&quot;&gt;Typography&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://www.youtube.com/watch?v=lnhBgpd0y1Q&quot;&gt;Type Safari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://www.youtube.com/watch?v=SG0Ou07IDhQ&quot;&gt;Typographic Design in the Digital Domain with Erik Spiekermann &amp;amp; Elliot Jay Stocks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/cssref/css_websafe_fonts.asp&quot;&gt;Web Safe Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/fonts&quot;&gt;Google Web Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://typekit.com/fonts&quot;&gt;Typekit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webtypography.net/toc/&quot;&gt;The Elements of Typographic Style Applied to the Web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;due-on-class-10-monday-feb-22&quot;&gt;Due on Class 10 Monday Feb 22&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;Jason Santa Maria - On Web Typography&quot;&gt;Jason Santa Maria - On Web Typography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/matthew_carter_my_life_in_typefaces?language=en&quot;&gt;Matthew Carter: My life in typefaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://css-tricks.com/snippets/css/using-font-face/&quot;&gt;Using @fontface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Complete &lt;a href=&quot;http://www.lynda.com/Design-Page-Layout-tutorials/Introduction/147012/360824-4.html&quot;&gt;33 Laws of Typography on Lyda.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2013/04/making-sense-type-classification-part-1/&quot;&gt;Making Sense Of Type Classification (Part 1)&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.usertesting.com/blog/2014/08/06/choosing-the-right-font-a-guide-to-typography-and-user-experience/&quot;&gt;Choosing the Right Font: A Guide to Typography and UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.usabilla.com/web-designers-need-to-remember-typography-influences-usability/&quot;&gt;Web Designers Need To Remember Typography Influences Usability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://ia.net/know-how/the-web-is-all-about-typography-period&quot;&gt;WEB DESIGN IS 95% TYPOGRAPHY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://practice.typekit.com/lesson/typography-is-how-text-looks/&quot;&gt;Typography is how text looks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/&quot;&gt;Selecting TYPEFACES for body text&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hongkiat.com/blog/webfont-icons/&quot;&gt;A Guide to: Better and Sharper UI Icons with Web Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/icon-fonts-vs-svg-debate/&quot;&gt;The Great Icon Debate: Fonts Vs SVG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/&quot;&gt;Understanding The Difference Between Type And Lettering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Complete &lt;a href=&quot;http://www.typeconnection.com/&quot;&gt;Type Connection Game&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/17/class-9.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/17/class-9.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Class 8: Snow Day</title>
+        <description>&lt;h4 id=&quot;class-canceled&quot;&gt;Class canceled&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Continue work on Project 1&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Brush up with &lt;a href=&quot;https://www.codecademy.com/learn/web&quot;&gt;HTML and CSS Fundamental on Codecademy&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/15/class-8.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/15/class-8.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 7: Seminar, Memes and Participatory Culture</title>
