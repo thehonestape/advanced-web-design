@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Class 6: Protype Workshop - Project Checkin"
+title:  "Class 6: Protoype Workshop - Project Checkin"
 date:   2016-02-08
 categories: class
 ---
