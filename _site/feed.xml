@@ -5,9 +5,58 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2016 15:13:55 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2016 15:13:55 -0500</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2016 16:29:52 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 16:29:52 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 10: Content Management Systems</title>
+        <description>&lt;h3 id=&quot;tie-up-loose-ends-on-project-1&quot;&gt;Tie up loose ends on Project 1&lt;/h3&gt;
+&lt;p&gt;Make sure everyone has turned in their Project 1 Files.
+Final upload for PDFs here:
+&lt;a href=&quot;https://www.dropbox.com/request/SuwGmqDOHLEzMxOi1nrk&quot;&gt;Project 1 Dropbox&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;deigners-role-in-content-and-content-managments&quot;&gt;Deigners Role in Content and Content Managments&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://cognition.happycog.com/article/channeling-your-back-end-developer&quot;&gt;Channeling Your Back-end Developer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://www.smashingmagazine.com/2010/11/designing-for-content-management-systems/&quot;&gt;Designing for Content Management Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://www.lukew.com/ff/entry.asp?1659&quot;&gt;An Event Apart: Designing for Content Management Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/&quot;&gt;Complete Beginner’s Guide to Content Strategy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;Managing Your Content Management System&quot;&gt;Managing Your Content Management System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;wordpress-introduction&quot;&gt;Wordpress Introduction&lt;/h3&gt;
+&lt;p&gt;Using this tutorial as our base: &lt;a href=&quot;https://bootstrapwp.com/setup-local-development-environment-wordpress/&quot;&gt;BootstrapWP - Local Wordpress Using MAMP&lt;/a&gt;&lt;br /&gt;
+* Download &lt;a href=&quot;https://desktop.github.com/&quot;&gt;Github Desktop Application&lt;/a&gt;&lt;br /&gt;
+* Start a new repo on your Github account&lt;br /&gt;
+* Clone your repo to your computer in a folder titled pro2&lt;br /&gt;
+* Download &lt;a href=&quot;https://www.mamp.info/en/downloads/&quot;&gt;MAMP - NOT MAMP PRO&lt;/a&gt;&lt;br /&gt;
+* Download &lt;a href=&quot;https://wordpress.org/download/&quot;&gt;Wordpress&lt;/a&gt;&lt;br /&gt;
+* Place Wordpress files into your folder&lt;br /&gt;
+* Create a new database (I’ll walk you through this)&lt;br /&gt;
+* Download &lt;a href=&quot;http://underscores.me/&quot;&gt;Underscores Theme&lt;/a&gt;&lt;br /&gt;
+* Intall Theme&lt;br /&gt;
+* Troubleshoot&lt;/p&gt;
+
+&lt;h2 id=&quot;due-on-class-10-monday-feb-22&quot;&gt;Due on Class 10 Monday Feb 22&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Above Readings&lt;/li&gt;
+  &lt;li&gt;Download these &lt;a href=&quot;http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates&quot;&gt;Bootstrap Grids&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;First draft of your wireframe or mockup of final Project 1 site’s larger view&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 22 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/22/class-10.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/22/class-10.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 9: Project Presentation &amp; Typography</title>
@@ -35,7 +84,7 @@
 
 &lt;h2 id=&quot;due-on-class-10-monday-feb-22&quot;&gt;Due on Class 10 Monday Feb 22&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Watch &lt;a href=&quot;Jason Santa Maria - On Web Typography&quot;&gt;Jason Santa Maria - On Web Typography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://vimeo.com/34178417&quot;&gt;Jason Santa Maria - On Web Typography&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/matthew_carter_my_life_in_typefaces?language=en&quot;&gt;Matthew Carter: My life in typefaces&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Read &lt;a href=&quot;https://css-tricks.com/snippets/css/using-font-face/&quot;&gt;Using @fontface&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Complete &lt;a href=&quot;http://www.lynda.com/Design-Page-Layout-tutorials/Introduction/147012/360824-4.html&quot;&gt;33 Laws of Typography on Lyda.com&lt;/a&gt;&lt;/li&gt;
@@ -54,6 +103,27 @@
         <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/17/class-9.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/17/class-9.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Class 8: Snow Day</title>
+        <description>&lt;h4 id=&quot;class-canceled&quot;&gt;Class canceled&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Continue work on Project 1&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Brush up with &lt;a href=&quot;https://www.codecademy.com/learn/web&quot;&gt;HTML and CSS Fundamental on Codecademy&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/15/class-8.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/15/class-8.html</guid>
         
         
         <category>class</category>
@@ -110,7 +180,7 @@ Once your link works, post it in Slack in #exercises&lt;/p&gt;
       </item>
     
       <item>
-        <title>Class 6: Protype Workshop - Project Checkin</title>
+        <title>Class 6: Protoype Workshop - Project Checkin</title>
         <description>&lt;h4 id=&quot;invision-prototyping&quot;&gt;Invision Prototyping&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3G4NO3Gcw2U&quot;&gt;Layer Comps in Photoshop&lt;/a&gt;&lt;/li&gt;

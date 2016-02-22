@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Class 10: Content Management Systems"
+date:   2016-02-22
+categories: class
+---
+
+### Tie up loose ends on Project 1
+Make sure everyone has turned in their Project 1 Files.
+Final upload for PDFs here:
+[Project 1 Dropbox](https://www.dropbox.com/request/SuwGmqDOHLEzMxOi1nrk)
+
+---
+
+### Deigners Role in Content and Content Managments
+* Read [Channeling Your Back-end Developer](http://cognition.happycog.com/article/channeling-your-back-end-developer)  
+* Read [Designing for Content Management Systems](https://www.smashingmagazine.com/2010/11/designing-for-content-management-systems/)  
+* Read [An Event Apart: Designing for Content Management Systems](http://www.lukew.com/ff/entry.asp?1659)  
+* Read [Complete Beginner’s Guide to Content Strategy](http://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/)  
+* Read [Managing Your Content Management System](Managing Your Content Management System)  
+
+---
+
+### Wordpress Introduction
+Using this tutorial as our base: [BootstrapWP - Local Wordpress Using MAMP](https://bootstrapwp.com/setup-local-development-environment-wordpress/)  
+* Download [Github Desktop Application](https://desktop.github.com/)  
+* Start a new repo on your Github account  
+* Clone your repo to your computer in a folder titled pro2  
+* Download [MAMP - NOT MAMP PRO](https://www.mamp.info/en/downloads/)  
+* Download [Wordpress](https://wordpress.org/download/)  
+* Place Wordpress files into your folder  
+* Create a new database (I'll walk you through this)  
+* Download [Underscores Theme](http://underscores.me/)  
+* Intall Theme  
+* Troubleshoot  
+
+
+
+Due on Class 10 Monday Feb 22
+------
+* Above Readings
+* Download these [Bootstrap Grids](http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates)
+* First draft of your wireframe or mockup of final Project 1 site's larger view
