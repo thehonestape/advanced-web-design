@@ -32,7 +32,7 @@ Exercise 6
 To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.
 
 * You will  need the [Bootstrap documentation](http://getbootstrap.com/) for this.
-* Download the HTML5 Boilerplate - Bootstrap Pre Configuration
+* Download the the [ex6 folder](https://www.dropbox.com/s/zn3arh5ymgqrvx1/ex6.zip?dl=0).
 * Lookup the wikipedia for your favorite musician and two of their albums
 * Using just the html, create a small wikipedia entry for your favorite artist.
 * Here are the examples. [Large View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/largeview.png) [Small View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/smallview.png)  
