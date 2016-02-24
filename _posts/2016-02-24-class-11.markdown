@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Class 11: Responsive Web Design"
+date:   2016-02-24
+categories: class
+---
+
+### Responsive Web Design
+So far we've talked quite a bit about the responsive web design process but have not gotten to brass tack on how that is implemented within a project.
+
+
+---
+
+### Responsive Web Design Resources
+* [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)  
+* [Responsive Web Design by Ethan Marcotte](http://alistapart.com/article/responsive-web-design)
+* [9 GIFs That Explain Responsive Design Brilliantly](http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly)  
+* [Responsive Web Design: Missing the Point](http://bradfrost.com/blog/web/responsive-web-design-missing-the-point/)  
+* [This Is Responsive](https://bradfrost.github.io/this-is-responsive/)
+
+---
+
+### Workshop
+Mocking up and protyping with Photoshop and a Bootstrap grid.
+Working with Bootstrap Boilerplate and examining the grid.
+
+---
+
+
+Exercise 7
+------
+To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.
+
+* You will  need the [Bootstrap documentation](http://getbootstrap.com/) for this.
+* Download the HTML5 Boilerplate - Bootstrap Pre Configuration
+* Lookup the wikipedia for your favorite musician and two of their albums
+* Using just the html, create a small wikipedia entry for your favorite artist.
+* Here are the examples. [Large View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/largeview.png) [Small View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/smallview.png)  

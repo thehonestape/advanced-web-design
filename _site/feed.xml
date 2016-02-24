@@ -5,9 +5,53 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2016 16:29:52 -0500</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 16:29:52 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 16:29:20 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 16:29:20 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Class 11: Responsive Web Design</title>
+        <description>&lt;h3 id=&quot;responsive-web-design&quot;&gt;Responsive Web Design&lt;/h3&gt;
+&lt;p&gt;So far we’ve talked quite a bit about the responsive web design process but have not gotten to brass tack on how that is implemented within a project.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;responsive-web-design-resources&quot;&gt;Responsive Web Design Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/advanced-html-css/responsive-web-design/&quot;&gt;Responsive Web Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/responsive-web-design&quot;&gt;Responsive Web Design by Ethan Marcotte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly&quot;&gt;9 GIFs That Explain Responsive Design Brilliantly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradfrost.com/blog/web/responsive-web-design-missing-the-point/&quot;&gt;Responsive Web Design: Missing the Point&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bradfrost.github.io/this-is-responsive/&quot;&gt;This Is Responsive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;workshop&quot;&gt;Workshop&lt;/h3&gt;
+&lt;p&gt;Mocking up and protyping with Photoshop and a Bootstrap grid.
+Working with Bootstrap Boilerplate and examining the grid.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;exercise-7&quot;&gt;Exercise 7&lt;/h2&gt;
+&lt;p&gt;To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You will  need the &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap documentation&lt;/a&gt; for this.&lt;/li&gt;
+  &lt;li&gt;Download the HTML5 Boilerplate - Bootstrap Pre Configuration&lt;/li&gt;
+  &lt;li&gt;Lookup the wikipedia for your favorite musician and two of their albums&lt;/li&gt;
+  &lt;li&gt;Using just the html, create a small wikipedia entry for your favorite artist.&lt;/li&gt;
+  &lt;li&gt;Here are the examples. &lt;a href=&quot;https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/largeview.png&quot;&gt;Large View&lt;/a&gt; &lt;a href=&quot;https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/smallview.png&quot;&gt;Small View&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/24/class-11.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/24/class-11.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 10: Content Management Systems</title>
@@ -42,7 +86,7 @@ Final upload for PDFs here:
 * Intall Theme&lt;br /&gt;
 * Troubleshoot&lt;/p&gt;
 
-&lt;h2 id=&quot;due-on-class-10-monday-feb-22&quot;&gt;Due on Class 10 Monday Feb 22&lt;/h2&gt;
+&lt;h2 id=&quot;due-on-class-11-monday-feb-24&quot;&gt;Due on Class 11 Monday Feb 24&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Above Readings&lt;/li&gt;
   &lt;li&gt;Download these &lt;a href=&quot;http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates&quot;&gt;Bootstrap Grids&lt;/a&gt;&lt;/li&gt;
@@ -597,75 +641,6 @@ Once your link works, post it in Slack in #exercises&lt;/p&gt;
         <pubDate>Mon, 25 Jan 2016 00:00:00 -0500</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/01/25/snow-day.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/01/25/snow-day.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome back to school!</title>
-        <description>&lt;p&gt;Hello and welcome to Web Design and Usability AVT 415&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JNezZV4648I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Our first class will be fairly relaxed. The first couple of minutes will be a quick test of technical ability.&lt;/p&gt;
-
-&lt;h2 id=&quot;in-class-exercise&quot;&gt;In class exercise&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Sign up or sign into &lt;a href=&quot;http://codepen.io/&quot;&gt;Codpen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Download a picture of yourself (please be appropriate)&lt;/li&gt;
-  &lt;li&gt;Display your image, centered on the page at 300x300&lt;/li&gt;
-  &lt;li&gt;Below your image, write a snippet about yourself and what you expect to get out of this class.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;information-super-highway&quot;&gt;Information Super Highway&lt;/h2&gt;
-
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hGB-4CxM8KE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;what-is-the-internet&quot;&gt;What is the Internet????&lt;/h2&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UlJku_CSyNg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;dont-fear-the-internet&quot;&gt;Don’t Fear the Internet&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.dontfeartheinternet.com/01-not-tubes/&quot;&gt;Internet, Not a Series of Tubes&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;after-class&quot;&gt;After class&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Join our &lt;a href=&quot;https://slack-advanced-web.herokuapp.com/&quot;&gt;Slack Channel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sign up for &lt;a href=&quot;https://github.com/join&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sign up for &lt;a href=&quot;https://codepen.io/signup/free&quot;&gt;Code Pen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Download &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Watch &lt;a href=&quot;http://www.dontfeartheinternet.com/&quot;&gt;Don’t Fear the Internet Episodes 1-4&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exercise 1: Due at Next Class
-&lt;del&gt;A general exercise on image and file management. Have not finished setting up spI will post the exercise ASAP here and send an update on Slack.&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;We tested your coding knowledge in class but we did not cover Photoshop, which we will be using in class. &lt;a href=&quot;https://www.dropbox.com/s/xhnkm1n2j9knx7p/profile-card.psd?dl=0&quot;&gt;Here is a link to a PSD file.&lt;/a&gt; Follow the instructions included in the file.&lt;/p&gt;
-
-&lt;p&gt;After you have finished this exercise, in Codepen, write the simple HTML for this card. No CSS, we will cover it in class. Pay attention to your syntax and style, making sure you are commenting and indenting.&lt;/p&gt;
-
-&lt;p&gt;If you remember from the first “Don’t Fear The Internet” video, raw HTML will not look finished.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://codepen.io/thehonestape/pen/Qyaoev&quot;&gt;Hint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Notice how the layer names from Photoshop are reflected. Always try to keep all of your names and files in order.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/01/20/welcome-back.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/01/20/welcome-back.html</guid>
         
         
         <category>class</category>
