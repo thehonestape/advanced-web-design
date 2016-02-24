@@ -5,8 +5,8 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Feb 2016 16:29:20 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 16:29:20 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Feb 2016 16:30:37 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Feb 2016 16:30:37 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -33,7 +33,7 @@ Working with Bootstrap Boilerplate and examining the grid.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;exercise-7&quot;&gt;Exercise 7&lt;/h2&gt;
+&lt;h2 id=&quot;exercise-6&quot;&gt;Exercise 6&lt;/h2&gt;
 &lt;p&gt;To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.&lt;/p&gt;
 
 &lt;ul&gt;

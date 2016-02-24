@@ -27,7 +27,7 @@ Working with Bootstrap Boilerplate and examining the grid.
 ---
 
 
-Exercise 7
+Exercise 6
 ------
 To familiarize yourself with the Bootstrap grid, we will be creating a wiki style entry for your favorite artist.
 
