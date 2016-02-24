@@ -36,7 +36,7 @@ Using this tutorial as our base: [BootstrapWP - Local Wordpress Using MAMP](http
 
 
 
-Due on Class 10 Monday Feb 22
+Due on Class 11 Monday Feb 24
 ------
 * Above Readings
 * Download these [Bootstrap Grids](http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates)
