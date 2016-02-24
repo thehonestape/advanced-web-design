@@ -36,3 +36,5 @@ To familiarize yourself with the Bootstrap grid, we will be creating a wiki styl
 * Lookup the wikipedia for your favorite musician and two of their albums
 * Using just the html, create a small wikipedia entry for your favorite artist.
 * Here are the examples. [Large View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/largeview.png) [Small View](https://dl.dropboxusercontent.com/u/25741860/mason/exercises/ex7/smallview.png)  
+
+* Upload to your site and share the URL in Slack. 
