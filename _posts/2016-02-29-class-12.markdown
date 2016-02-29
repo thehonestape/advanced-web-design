@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Class 12: Preprocessors and Workshop"
+date:   2016-02-24
+categories: class
+---
+
+Project 2 Assigned
+---
+[Project 2 Is Here.](https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing)
+
+
+### SASS Demonstration
+Introduction to CSS Preprocessors
+
+## Resources  
+* [Sass Basic Documentation](http://sass-lang.com/guide)  
+* [Why SASS?](http://alistapart.com/article/why-sass)   
+* [What is Sass? Guide to CSS with superpowers](http://www.creativebloq.com/web-design/what-is-sass-111517618)  
+
+### Breaking your design into pieces
+Some examples of how to break your designs into modules, utilizing the principles of [Brad Frost's Pattern Lab](http://demo.patternlab.io/)  
+
+
+### We will be delving further into Wordpress in the next few weeks
+Further help for people still behind on Wordpress workflow (MAMP setup)
+
+---
+
+### Assignment 3
+Using Brad Frost's Pattern Lab, set up your website's basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.
+
+---
