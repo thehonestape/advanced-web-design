@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Class 12: Preprocessors and Workshop"
-date:   2016-02-24
+date:   2016-02-29
 categories: class
 ---
 
@@ -30,4 +30,7 @@ Further help for people still behind on Wordpress workflow (MAMP setup)
 ### Assignment 3
 Using Brad Frost's Pattern Lab, set up your website's basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.
 
+Save as PDF  
+Name it: yourlastname_assignment3.pdf  
+Upload to: [https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz](https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz)
 ---

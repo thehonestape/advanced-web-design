@@ -201,7 +201,8 @@ pre {
             fill: #424242; }
       .site-nav .trigger {
         clear: both;
-        display: none; }
+        display: none;
+        background: #9900ff; }
       .site-nav:hover .trigger {
         display: block;
         padding-bottom: 5px; }
