@@ -5,9 +5,50 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Feb 2016 18:35:00 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 18:35:00 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Wed, 02 Mar 2016 02:47:05 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 02:47:05 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 13: Workshop</title>
+        <description>&lt;p&gt;We will be making sure everyone is prepared to work on &lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; over the break.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;wordpress-pieces&quot;&gt;Wordpress pieces&lt;/h2&gt;
+&lt;p&gt;We will be looking at how a typical Wordpress theme is constructed/broken up&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;wordpress-installation-and-gitgithub-refresher&quot;&gt;Wordpress Installation and Git/Github Refresher&lt;/h2&gt;
+&lt;p&gt;Using this tutorial as our base: &lt;a href=&quot;https://bootstrapwp.com/setup-local-development-environment-wordpress/&quot;&gt;BootstrapWP - Local Wordpress Using MAMP&lt;/a&gt;&lt;br /&gt;
+* Download &lt;a href=&quot;https://desktop.github.com/&quot;&gt;Github Desktop Application&lt;/a&gt;&lt;br /&gt;
+* Start a new repo on your Github account&lt;br /&gt;
+* Clone your repo to your computer in a folder titled pro2&lt;br /&gt;
+* Download &lt;a href=&quot;https://www.mamp.info/en/downloads/&quot;&gt;MAMP&lt;/a&gt;&lt;br /&gt;
+* Download &lt;a href=&quot;https://wordpress.org/download/&quot;&gt;Wordpress&lt;/a&gt;&lt;br /&gt;
+* Place Wordpress files into your folder&lt;br /&gt;
+* Create a new database
+* Download this &lt;a href=&quot;https://gist.github.com/salcode/b515f520d3f8207ecd04&quot;&gt;.gitignore file&lt;/a&gt;
+* Make sure you are able to &lt;a href=&quot;http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/&quot;&gt;see hidden files&lt;/a&gt;&lt;br /&gt;
+* Copy the .gitignore file to your project folder
+* Start your MAMP servers&lt;br /&gt;
+* Go to your localhost &lt;a href=&quot;http://localhost&quot;&gt;http://localhost&lt;/a&gt; usually
+* Complete your wordpress install (username:root, password: root)&lt;br /&gt;
+* Download &lt;a href=&quot;http://themekraft.com/tk-wordpress-bootstrap-starter-theme/&quot;&gt;Underscores TK Theme&lt;/a&gt;&lt;br /&gt;
+* If you want to try your hand at a SASS version, download &lt;a href=&quot;http://understrap.com/&quot;&gt;Understrap&lt;/a&gt;&lt;br /&gt;
+- some extra steps for this one, so let’s do this together in class if you want to try it&lt;br /&gt;
+* Place your files in your themes folder&lt;br /&gt;
+* Troubleshoot&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/02/class-13.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/02/class-13.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 12: Preprocessors and Workshop</title>
@@ -32,7 +73,7 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;assignment-3&quot;&gt;Assignment 3&lt;/h3&gt;
+&lt;h3 id=&quot;assignment-3-due-wednesday-march-2&quot;&gt;Assignment 3: Due Wednesday March 2&lt;/h3&gt;
 &lt;p&gt;Using Brad Frost’s Pattern Lab, set up your website’s basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.&lt;/p&gt;
 
 &lt;p&gt;Save as PDF&lt;br /&gt;
@@ -50,6 +91,25 @@ Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz
       </item>
     
       <item>
+        <title>Assignment 3</title>
+        <description>&lt;h3 id=&quot;assignment-3-due-wednesday-march-2&quot;&gt;Assignment 3: Due Wednesday March 2&lt;/h3&gt;
+&lt;p&gt;Using Brad Frost’s Pattern Lab, set up your website’s basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.&lt;/p&gt;
+
+&lt;p&gt;Save as PDF&lt;br /&gt;
+Name it: yourlastname_assignment3.pdf&lt;br /&gt;
+Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&quot;&gt;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&lt;/a&gt;
+—&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/assignments/2016/02/29/assignment-3.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/assignments/2016/02/29/assignment-3.html</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
         <title>Project 2</title>
         <description>&lt;h2 id=&quot;project-2-assigned&quot;&gt;Project 2 Assigned&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2 Is Here.&lt;/a&gt;&lt;/p&gt;
@@ -60,25 +120,6 @@ Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Assignment 3</title>
-        <description>&lt;h3 id=&quot;assignment-3&quot;&gt;Assignment 3&lt;/h3&gt;
-&lt;p&gt;Using Brad Frost’s Pattern Lab, set up your website’s basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.&lt;/p&gt;
-
-&lt;p&gt;Save as PDF&lt;br /&gt;
-Name it: yourlastname_assignment3.pdf&lt;br /&gt;
-Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&quot;&gt;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&lt;/a&gt;
-—&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/assignments/2016/02/24/assignment-3.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/assignments/2016/02/24/assignment-3.html</guid>
-        
-        
-        <category>assignments</category>
         
       </item>
     
@@ -159,7 +200,7 @@ Final upload for PDFs here:
 * Place Wordpress files into your folder&lt;br /&gt;
 * Create a new database (I’ll walk you through this)&lt;br /&gt;
 * Download &lt;a href=&quot;http://underscores.me/&quot;&gt;Underscores Theme&lt;/a&gt;&lt;br /&gt;
-* Intall Theme&lt;br /&gt;
+* Install Theme&lt;br /&gt;
 * Troubleshoot&lt;/p&gt;
 
 &lt;h2 id=&quot;due-on-class-11-monday-feb-24&quot;&gt;Due on Class 11 Monday Feb 24&lt;/h2&gt;
@@ -179,48 +220,50 @@ Final upload for PDFs here:
       </item>
     
       <item>
-        <title>Class 10: Content Management Systems</title>
-        <description>&lt;h3 id=&quot;tie-up-loose-ends-on-project-1&quot;&gt;Tie up loose ends on Project 1&lt;/h3&gt;
-&lt;p&gt;Make sure everyone has turned in their Project 1 Files.
-Final upload for PDFs here:
-&lt;a href=&quot;https://www.dropbox.com/request/SuwGmqDOHLEzMxOi1nrk&quot;&gt;Project 1 Dropbox&lt;/a&gt;&lt;/p&gt;
+        <title>Class 9: Project Presentation &amp; Typography</title>
+        <description>&lt;h3 id=&quot;project-presentations&quot;&gt;Project Presentations&lt;/h3&gt;
+&lt;p&gt;Presentations and Crits on Project 1&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;deigners-role-in-content-and-content-managments&quot;&gt;Deigners Role in Content and Content Managments&lt;/h3&gt;
+&lt;h3 id=&quot;typography&quot;&gt;Typography&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://cognition.happycog.com/article/channeling-your-back-end-developer&quot;&gt;Channeling Your Back-end Developer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;https://www.smashingmagazine.com/2010/11/designing-for-content-management-systems/&quot;&gt;Designing for Content Management Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.lukew.com/ff/entry.asp?1659&quot;&gt;An Event Apart: Designing for Content Management Systems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/&quot;&gt;Complete Beginner’s Guide to Content Strategy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;Managing Your Content Management System&quot;&gt;Managing Your Content Management System&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://www.youtube.com/watch?v=lnhBgpd0y1Q&quot;&gt;Type Safari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;https://www.youtube.com/watch?v=SG0Ou07IDhQ&quot;&gt;Typographic Design in the Digital Domain with Erik Spiekermann &amp;amp; Elliot Jay Stocks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/cssref/css_websafe_fonts.asp&quot;&gt;Web Safe Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/fonts&quot;&gt;Google Web Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://typekit.com/fonts&quot;&gt;Typekit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webtypography.net/toc/&quot;&gt;The Elements of Typographic Style Applied to the Web&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
-&lt;h3 id=&quot;wordpress-introduction&quot;&gt;Wordpress Introduction&lt;/h3&gt;
-&lt;p&gt;Using this tutorial as our base: &lt;a href=&quot;https://bootstrapwp.com/setup-local-development-environment-wordpress/&quot;&gt;BootstrapWP - Local Wordpress Using MAMP&lt;/a&gt;&lt;br /&gt;
-* Download &lt;a href=&quot;https://desktop.github.com/&quot;&gt;Github Desktop Application&lt;/a&gt;&lt;br /&gt;
-* Start a new repo on your Github account&lt;br /&gt;
-* Clone your repo to your computer in a folder titled pro2&lt;br /&gt;
-* Download &lt;a href=&quot;https://www.mamp.info/en/downloads/&quot;&gt;MAMP - NOT MAMP PRO&lt;/a&gt;&lt;br /&gt;
-* Download &lt;a href=&quot;https://wordpress.org/download/&quot;&gt;Wordpress&lt;/a&gt;&lt;br /&gt;
-* Place Wordpress files into your folder&lt;br /&gt;
-* Create a new database (I’ll walk you through this)&lt;br /&gt;
-* Download &lt;a href=&quot;http://underscores.me/&quot;&gt;Underscores Theme&lt;/a&gt;&lt;br /&gt;
-* Intall Theme&lt;br /&gt;
-* Troubleshoot&lt;/p&gt;
 
 &lt;h2 id=&quot;due-on-class-10-monday-feb-22&quot;&gt;Due on Class 10 Monday Feb 22&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Above Readings&lt;/li&gt;
-  &lt;li&gt;Download these &lt;a href=&quot;http://www.minimit.com/articles/tips-resources/bootstrap-3-responsive-grid-psd-templates&quot;&gt;Bootstrap Grids&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;First draft of your wireframe or mockup of final Project 1 site’s larger view&lt;/li&gt;
+  &lt;li&gt;Watch &lt;a href=&quot;Jason Santa Maria - On Web Typography&quot;&gt;Jason Santa Maria - On Web Typography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/matthew_carter_my_life_in_typefaces?language=en&quot;&gt;Matthew Carter: My life in typefaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://css-tricks.com/snippets/css/using-font-face/&quot;&gt;Using @fontface&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Complete &lt;a href=&quot;http://www.lynda.com/Design-Page-Layout-tutorials/Introduction/147012/360824-4.html&quot;&gt;33 Laws of Typography on Lyda.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2013/04/making-sense-type-classification-part-1/&quot;&gt;Making Sense Of Type Classification (Part 1)&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.usertesting.com/blog/2014/08/06/choosing-the-right-font-a-guide-to-typography-and-user-experience/&quot;&gt;Choosing the Right Font: A Guide to Typography and UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.usabilla.com/web-designers-need-to-remember-typography-influences-usability/&quot;&gt;Web Designers Need To Remember Typography Influences Usability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://ia.net/know-how/the-web-is-all-about-typography-period&quot;&gt;WEB DESIGN IS 95% TYPOGRAPHY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://practice.typekit.com/lesson/typography-is-how-text-looks/&quot;&gt;Typography is how text looks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/&quot;&gt;Selecting TYPEFACES for body text&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hongkiat.com/blog/webfont-icons/&quot;&gt;A Guide to: Better and Sharper UI Icons with Web Fonts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/icon-fonts-vs-svg-debate/&quot;&gt;The Great Icon Debate: Fonts Vs SVG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2013/01/understanding-difference-between-type-and-lettering/&quot;&gt;Understanding The Difference Between Type And Lettering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Complete &lt;a href=&quot;http://www.typeconnection.com/&quot;&gt;Type Connection Game&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 22 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/22/class-9.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/22/class-9.html</guid>
+        <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/17/class-9.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/17/class-9.html</guid>
         
         
         <category>class</category>
@@ -354,87 +397,6 @@ Once your link works, post it in Slack in #exercises&lt;/p&gt;
         <pubDate>Mon, 08 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/08/class-6.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/08/class-6.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 5: Patterns</title>
-        <description>&lt;h4 id=&quot;user-patterns&quot;&gt;User Patterns&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/wfyndcckmo0qaur/patterns.pdf?dl=0&quot;&gt;Class Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Conventions Are Your Friend - &lt;em&gt;Don’t Make Me Think&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Take Advantage of conventions&lt;/li&gt;
-  &lt;li&gt;Create effective visual hierarchies&lt;/li&gt;
-  &lt;li&gt;Break pages up into clearly defined area&lt;/li&gt;
-  &lt;li&gt;Make it obvious what’s clickable&lt;/li&gt;
-  &lt;li&gt;Eliminate distractions&lt;/li&gt;
-  &lt;li&gt;Format content to support scanning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original&quot;&gt;UX Myth #9 - Design has to be original&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;hamburger-icon&quot;&gt;Hamburger Icon&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/&quot;&gt;Why and How to Avoid Hamburger Menus&lt;/a&gt;
-&lt;a href=&quot;http://www.webdesignerdepot.com/2014/06/how-to-solve-the-hamburger-icon-problem/&quot;&gt;How to Sove the Hamburger Menu Problem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hamburger Icon Problems&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lower Discoverability&lt;/li&gt;
-  &lt;li&gt;Less Efficient&lt;/li&gt;
-  &lt;li&gt;Clash with Platform Navigation Patterns&lt;/li&gt;
-  &lt;li&gt;Not Glanceable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;dark-patterns&quot;&gt;Dark Patterns&lt;/h4&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Dark Patterns are User Interfaces that are designed to trick people. Normally when you think of “bad design”, you think of laziness or mistakes. These are known as design anti-patterns. Dark Patterns are different – they are not mistakes, they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://darkpatterns.org/&quot;&gt;darkpatterns.org&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design&quot;&gt;Dark Patterns: Deception vs. Honesty in UI Design&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.theverge.com/2013/8/29/4640308/dark-patterns-inside-the-interfaces-designed-to-trick-you&quot;&gt;Dark Patterns: Inside the Interfaces Designed to Trick You&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;patternsstyle-guides&quot;&gt;Patterns/Style Guides&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.google.com/design/spec/material-design/introduction.html&quot;&gt;Google Material Design Guidelines&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://developers.google.com/web/fundamentals/design-and-ui/?hl=en&quot;&gt;Google Design and UI Guidelines&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://ux.mailchimp.com/patterns&quot;&gt;Mailchimp Pattern Library&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://patternlab.io/&quot;&gt;Pattern Lab - Brad Frost&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;pattern-resources&quot;&gt;Pattern Resources&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://bradfrost.github.io/this-is-responsive/patterns.html&quot;&gt;Responsive Patterns&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://zurb.com/patterntap&quot;&gt;Pattern Tap&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://ui-patterns.com&quot;&gt;UI Patterns&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://codepen.io/patterns/&quot;&gt;Design Patterns on Codepen&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://www.awwwards.com/mastering-ui-patterns-for-smarter-design.html&quot;&gt;Mastering UI Patterns for Smarter Design&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;http://www.mobile-patterns.com/&quot;&gt;Mobile Patterns&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://pttrns.com/&quot;&gt;pttrns.com&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://hoverstat.es/&quot;&gt;Hover States&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;due-on-monday-feb-8&quot;&gt;Due on Monday Feb 8&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Progress updates one on one meetings for Project 1&lt;/li&gt;
-  &lt;li&gt;Review Chapters 13, 14, 15 of Duckett.&lt;/li&gt;
-  &lt;li&gt;Read Chapters 6-7 of Krug&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;highlight&quot;&gt;Read all of Shiffman, seminar will be February 10 (See syllabus about seminars)&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.creativebloq.com/web-design/how-use-html-boilerplate-11513798&quot;&gt;How to use an HTML boilerplate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/01/class-5.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/01/class-5.html</guid>
         
         
         <category>class</category>
