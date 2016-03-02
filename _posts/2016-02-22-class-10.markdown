@@ -31,7 +31,7 @@ Using this tutorial as our base: [BootstrapWP - Local Wordpress Using MAMP](http
 * Place Wordpress files into your folder  
 * Create a new database (I'll walk you through this)  
 * Download [Underscores Theme](http://underscores.me/)  
-* Intall Theme  
+* Install Theme  
 * Troubleshoot  
 
 
