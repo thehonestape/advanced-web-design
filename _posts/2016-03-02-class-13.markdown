@@ -14,6 +14,11 @@ We will be looking at how a typical Wordpress theme is constructed/broken up
 
 ---
 
+## Translating Pattern Lab PDFs to code
+We will be seeing how some of the styles/patter lab systems translate to code for your projects
+
+---
+
 ## Wordpress Installation and Git/Github Refresher
 Using this tutorial as our base: [BootstrapWP - Local Wordpress Using MAMP](https://bootstrapwp.com/setup-local-development-environment-wordpress/)  
 * Download [Github Desktop Application](https://desktop.github.com/)  
