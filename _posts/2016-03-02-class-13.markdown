@@ -1,8 +1,41 @@
 ---
 layout: post
-title:  "Class 13: Workshop"
-date:   2016-03-14
+title:  "Class 14: Workshop"
+date:   2016-03-02
 categories: class
 ---
 
-[Project 2](https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing) workshop
+We will be making sure everyone is prepared to work on [Project 2](https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing) over the break.
+
+---
+
+## Wordpress pieces
+We will be looking at how a typical Wordpress theme is constructed/broken up
+
+---
+
+## Translating Pattern Lab PDFs to code
+We will be seeing how some of the styles/patter lab systems translate to code for your projects
+
+---
+
+## Wordpress Installation and Git/Github Refresher
+Using this tutorial as our base: [BootstrapWP - Local Wordpress Using MAMP](https://bootstrapwp.com/setup-local-development-environment-wordpress/)  
+* Download [Github Desktop Application](https://desktop.github.com/)  
+* Start a new repo on your Github account  
+* Clone your repo to your computer in a folder titled pro2  
+* Download [MAMP](https://www.mamp.info/en/downloads/)  
+* Download [Wordpress](https://wordpress.org/download/)  
+* Place Wordpress files into your folder  
+* Create a new database
+* Download this [.gitignore file](https://gist.github.com/salcode/b515f520d3f8207ecd04)
+* Make sure you are able to [see hidden files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)  
+* Copy the .gitignore file to your project folder
+* Start your MAMP servers  
+* Go to your localhost [http://localhost](http://localhost) usually
+* Complete your wordpress install (username:root, password: root)  
+* Download [Underscores TK Theme](http://themekraft.com/tk-wordpress-bootstrap-starter-theme/)  
+* If you want to try your hand at a SASS version, download [Understrap](http://understrap.com/)  
+- some extra steps for this one, so let's do this together in class if you want to try it  
+* Place your files in your themes folder  
+* Troubleshoot   

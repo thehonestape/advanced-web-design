@@ -5,17 +5,50 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Mar 2016 16:20:16 -0400</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 16:20:16 -0400</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 16:58:23 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 16:58:23 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Class 13: Workshop</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; workshop&lt;/p&gt;
+        <title>Class 14: Workshop</title>
+        <description>&lt;p&gt;We will be making sure everyone is prepared to work on &lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; over the break.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;wordpress-pieces&quot;&gt;Wordpress pieces&lt;/h2&gt;
+&lt;p&gt;We will be looking at how a typical Wordpress theme is constructed/broken up&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;translating-pattern-lab-pdfs-to-code&quot;&gt;Translating Pattern Lab PDFs to code&lt;/h2&gt;
+&lt;p&gt;We will be seeing how some of the styles/patter lab systems translate to code for your projects&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;wordpress-installation-and-gitgithub-refresher&quot;&gt;Wordpress Installation and Git/Github Refresher&lt;/h2&gt;
+&lt;p&gt;Using this tutorial as our base: &lt;a href=&quot;https://bootstrapwp.com/setup-local-development-environment-wordpress/&quot;&gt;BootstrapWP - Local Wordpress Using MAMP&lt;/a&gt;&lt;br /&gt;
+* Download &lt;a href=&quot;https://desktop.github.com/&quot;&gt;Github Desktop Application&lt;/a&gt;&lt;br /&gt;
+* Start a new repo on your Github account&lt;br /&gt;
+* Clone your repo to your computer in a folder titled pro2&lt;br /&gt;
+* Download &lt;a href=&quot;https://www.mamp.info/en/downloads/&quot;&gt;MAMP&lt;/a&gt;&lt;br /&gt;
+* Download &lt;a href=&quot;https://wordpress.org/download/&quot;&gt;Wordpress&lt;/a&gt;&lt;br /&gt;
+* Place Wordpress files into your folder&lt;br /&gt;
+* Create a new database
+* Download this &lt;a href=&quot;https://gist.github.com/salcode/b515f520d3f8207ecd04&quot;&gt;.gitignore file&lt;/a&gt;
+* Make sure you are able to &lt;a href=&quot;http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/&quot;&gt;see hidden files&lt;/a&gt;&lt;br /&gt;
+* Copy the .gitignore file to your project folder
+* Start your MAMP servers&lt;br /&gt;
+* Go to your localhost &lt;a href=&quot;http://localhost&quot;&gt;http://localhost&lt;/a&gt; usually
+* Complete your wordpress install (username:root, password: root)&lt;br /&gt;
+* Download &lt;a href=&quot;http://themekraft.com/tk-wordpress-bootstrap-starter-theme/&quot;&gt;Underscores TK Theme&lt;/a&gt;&lt;br /&gt;
+* If you want to try your hand at a SASS version, download &lt;a href=&quot;http://understrap.com/&quot;&gt;Understrap&lt;/a&gt;&lt;br /&gt;
+- some extra steps for this one, so let’s do this together in class if you want to try it&lt;br /&gt;
+* Place your files in your themes folder&lt;br /&gt;
+* Troubleshoot&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/14/class-13.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/14/class-13.html</guid>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/02/class-13.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/02/class-13.html</guid>
         
         
         <category>class</category>
