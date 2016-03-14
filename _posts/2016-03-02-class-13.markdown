@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Class 14: Workshop"
+title:  "Class 13: Workshop"
 date:   2016-03-02
 categories: class
 ---
