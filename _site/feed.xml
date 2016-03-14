@@ -5,9 +5,22 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Mar 2016 16:59:11 -0400</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 16:59:11 -0400</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 16:59:59 -0400</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 16:59:59 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 14: Workshop</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; workshop&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Mar 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/14/class-14.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/14/class-14.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 13: Workshop</title>
@@ -339,69 +352,6 @@ Once your link works, post it in Slack in #exercises&lt;/p&gt;
         <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/10/class-7.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/10/class-7.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 6: Protoype Workshop - Project Checkin</title>
-        <description>&lt;h4 id=&quot;invision-prototyping&quot;&gt;Invision Prototyping&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3G4NO3Gcw2U&quot;&gt;Layer Comps in Photoshop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.invisionapp.com/prototyping-with-photoshop-layer-comps/&quot;&gt;PROTOTYPING WITH PHOTOSHOP LAYER COMPS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.invisionapp.com/design-snack-8-photoshop-artboards/&quot;&gt;DESIGN SNACK #8: PHOTOSHOP ARTBOARDS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;seminar-extra-viewing-and-reading&quot;&gt;Seminar Extra Viewing and Reading&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online&quot;&gt;Christopher “moot” Poole”: The case for anonymity online&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/news/the-intersect/wp/2015/07/08/what-will-happen-to-the-internet-if-reddit-shuts-down/&quot;&gt;What will happen to the Internet if Reddit shuts down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/opinions/we-cannot-let-the-internet-trolls-win/2015/07/16/91b1a2d2-2b17-11e5-bd33-395c05608059_story.html&quot;&gt;Former Reddit CEO Ellen Pao: The trolls are winning the battle for the Internet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.niemanlab.org/2013/10/were-still-babies-at-it-buzzfeed-videos-strategy-relies-on-identity-emotion-and-sharing-content-as-communication/&quot;&gt;BuzzFeed Video’s strategy relies on identity, emotion, and sharing content as communication&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.vox.com/2014/5/20/5730762/buzzfeeds-founder-used-to-write-marxist-theory-and-it-explains&quot;&gt;BuzzFeed’s founder used to write Marxist theory and it explains BuzzFeed perfectly&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.businessinsider.com/madonna-cofounded-a-company-that-creates-viral-dance-videos-and-whipnae-nae-was-its-first-monster-hit-2016-1&quot;&gt;Madonna cofounded a startup that manufactures viral dance trends — and ‘Whip/Nae Nae’ was its first monster hit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.vanityfair.com/culture/2015/10/ermahgerd-girl-true-story&quot;&gt;Ermahgerddon: The Untold Story of the Ermahgerd Girl&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.theawl.com/2014/12/the-triumphant-rise-of-the-shitpic&quot;&gt;The Triumphant Rise of the Shitpic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.theatlantic.com/technology/archive/2014/12/internet-ugly-and-the-aesthetic-of-failing-on-purpose/384023/&quot;&gt;Internet Ugly and the Aesthetic of Failing on Purpose&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://gawker.com/chart-brut-how-the-ms-paint-graphics-of-conspiracy-too-1651851261&quot;&gt;Chart Brut: How the MS-Paint Graphics of Conspiracy Took Over the Web&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=PzySkYQNDlI&quot;&gt;The reason every meme uses that one font&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/&quot;&gt;Is this the first Instagram masterpiece?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.good.is/articles/art-stunt-instagram&quot;&gt;Instagram Stunt Becomes an Art Sensation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.thefader.com/2014/11/07/social-anxiety-why-amalia-ulmans-middlebrow-instagram-feed-is-no-different-from-yours&quot;&gt;Social Anxiety: Why Artist Amalia Ulman’s Fake “Middlebrow” Instagram Is No Different From Yours&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;due-on-monday-feb-8&quot;&gt;Due on Monday Feb 8&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;highlight&quot;&gt;Read all of Shiffman, seminar will be February 10 (See syllabus about seminars)&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;Read all links on this post&lt;/li&gt;
-  &lt;li&gt;Continue work on Project 1&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/08/class-6.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/08/class-6.html</guid>
         
         
         <category>class</category>
