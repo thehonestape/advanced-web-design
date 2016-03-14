@@ -12,6 +12,7 @@ description: Course site for AVT 415
 baseurl: "/advanced-web-design" # the subpath of your site, e.g. /blog
 url: "http://thehonestape.github.io/" # the base hostname & protocol for your site
 github_username:  thehonestape
+port: 8888
 
 # Build settings
 markdown: kramdown
