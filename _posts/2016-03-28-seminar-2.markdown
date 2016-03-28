@@ -9,7 +9,6 @@ Seminar will be Monday April 4th.
 ---
 
 Like the last one, this will be a mostly lecture class, discussing the following readings. Come prepared with questions, insights and opinions on the material.
-Remember, speak clearly about your work. Talk about your design and development process with confidence and let us know how you arrived at your design solution.
 
 ---
 * Read [Landmark Web Sites, Where Art Thou?](http://www.underconsideration.com/speakup/archives/004033.html)  
