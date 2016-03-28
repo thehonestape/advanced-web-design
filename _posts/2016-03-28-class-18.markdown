@@ -24,7 +24,7 @@ This depends on your webhost, but these are the general instructions. If you hav
 4. Connect to your server via FTP  
 5. Put your files on the server inside of the subdomain (all files, not just the folder)   
 6. Adjust your wp-config file to reflect your new database information   
-7. Post your link in Slack  
+7. Post your link in Slack #projects channel
 
 ---
 
