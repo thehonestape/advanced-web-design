@@ -34,4 +34,4 @@ Due on Class 20th Monday, April 4th
 All readings for <a href='{{ base }}/advanced-web-design/seminars/2016/03/28/seminar-2.html'>Seminar 2</a>  
 
 # Assignment 4  
-See Assignment 4 Post <a href='{{ base }}/advanced-web-design/seminars/2016/03/28/seminar-2.html'>Seminar</a>
+See <a href='{{ base }}/advanced-web-design/assignments/2016/03/30/assignment-4.html'>Assignment 4 Post</a>
