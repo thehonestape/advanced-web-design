@@ -5,16 +5,81 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Mar 2016 15:46:31 -0400</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 15:46:31 -0400</lastBuildDate>
+    <pubDate>Wed, 30 Mar 2016 16:17:02 -0400</pubDate>
+    <lastBuildDate>Wed, 30 Mar 2016 16:17:02 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 19: Your Work</title>
+        <description>&lt;h2 id=&quot;project-2&quot;&gt;Project 2&lt;/h2&gt;
+&lt;p&gt;We will be going over last minute items on Project 2.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We will be transitioning slowly over to Project 3. First, by talking about you, your work and preparing you to talk about and present your work in the best way possible.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Kkd8OSDa55A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;your-work--you&quot;&gt;Your Work = You&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your job does not define you, but your work does.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Your creative practice is everything you make, write, say, see, read, eat, hear, etc... Everything counts. Make sure to pay attention.&lt;/p&gt;&amp;mdash; Mitch Goldstein (@mgoldst) &lt;a href=&quot;https://twitter.com/mgoldst/status/714661216661213189&quot;&gt;March 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I want you to spend the next week and weekend thinking about yourself and work. Think about the work you’ve created thus far and think about the work you want to do. Then, complete Assignment 4.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;due-on-class-20th-monday-april-4th&quot;&gt;Due on Class 20th Monday, April 4th&lt;/h2&gt;
+&lt;p&gt;All readings for &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/seminar-2.html&quot;&gt;Seminar 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;assignment-4&quot;&gt;Assignment 4&lt;/h1&gt;
+&lt;p&gt;See Assignment 4 Post &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/seminar-2.html&quot;&gt;Seminar&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/30/class-19.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/30/class-19.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Assignment 4</title>
+        <description>&lt;h3 id=&quot;assignment-4-due-monday-april-4&quot;&gt;Assignment 4: Due Monday April 4&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Synopsis&lt;/em&gt;
+I want you to look through your current body of work and pick out three pieces that you feel define you. For each piece, tell me why this piece is important to you.&lt;/p&gt;
+
+&lt;p&gt;Next, I want you to tell me the type of work you want to do.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;format&quot;&gt;Format&lt;/h2&gt;
+&lt;p&gt;1-2 page PDF, nicely designed, depicting each piece and your explanation. Each explanation should be about 3-5 sentences. The last section should also be about 5-10 sentences.&lt;/p&gt;
+
+&lt;p&gt;Submit your PDF here:
+https://www.dropbox.com/request/kufPJVnisXabY1hTkkLH&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/assignments/2016/03/30/assignment-4.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/assignments/2016/03/30/assignment-4.html</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
     
       <item>
         <title>Seminar: Beauty in Web Design</title>
         <description>&lt;h2 id=&quot;seminar-will-be-monday-april-4th&quot;&gt;Seminar will be Monday April 4th.&lt;/h2&gt;
 
-&lt;p&gt;Like the last one, this will be a mostly lecture class, discussing the following readings. Come prepared with questions, insights and opinions on the material.
-Remember, speak clearly about your work. Talk about your design and development process with confidence and let us know how you arrived at your design solution.&lt;/p&gt;
+&lt;p&gt;Like the last one, this will be a mostly lecture class, discussing the following readings. Come prepared with questions, insights and opinions on the material.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;ul&gt;
@@ -69,7 +134,7 @@ This depends on your webhost, but these are the general instructions. If you hav
   &lt;li&gt;Connect to your server via FTP&lt;/li&gt;
   &lt;li&gt;Put your files on the server inside of the subdomain (all files, not just the folder)&lt;/li&gt;
   &lt;li&gt;Adjust your wp-config file to reflect your new database information&lt;/li&gt;
-  &lt;li&gt;Post your link in Slack&lt;/li&gt;
+  &lt;li&gt;Post your link in Slack #projects channel&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr /&gt;
@@ -290,39 +355,6 @@ Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz
         
         
         <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Assignment 3</title>
-        <description>&lt;h3 id=&quot;assignment-3-due-wednesday-march-2&quot;&gt;Assignment 3: Due Wednesday March 2&lt;/h3&gt;
-&lt;p&gt;Using Brad Frost’s Pattern Lab, set up your website’s basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.&lt;/p&gt;
-
-&lt;p&gt;Save as PDF&lt;br /&gt;
-Name it: yourlastname_assignment3.pdf&lt;br /&gt;
-Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&quot;&gt;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&lt;/a&gt;
-—&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/assignments/2016/02/29/assignment-3.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/assignments/2016/02/29/assignment-3.html</guid>
-        
-        
-        <category>assignments</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 2</title>
-        <description>&lt;h2 id=&quot;project-2-assigned&quot;&gt;Project 2 Assigned&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2 Is Here.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/projects/2016/02/24/project-2.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/projects/2016/02/24/project-2.html</guid>
-        
-        
-        <category>projects</category>
         
       </item>
     
