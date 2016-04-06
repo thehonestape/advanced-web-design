@@ -5,9 +5,145 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Mar 2016 16:24:21 -0400</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2016 16:24:21 -0400</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2016 14:56:03 -0400</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2016 14:56:03 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 21: Portfolios: Inspiration, Aspiration, and Limitations</title>
+        <description>&lt;h2 id=&quot;porfolio-inspration&quot;&gt;Porfolio Inspration&lt;/h2&gt;
+
+&lt;p&gt;Let’s begin by breaking up and examing the most common portoflio website patterns.&lt;/p&gt;
+
+&lt;p&gt;Story &amp;gt; Writing &amp;gt; Design Work &amp;gt; Call to Action (CTA)&lt;br /&gt;
+Most of the emphasis is on the designer’s story and their thoughts/writings, followed up finally by their design work examples.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.vanschneider.com/&quot;&gt;Tobias van Schneider&lt;/a&gt;&lt;br /&gt;
+Still very visual but the order puts the designer’s story and writings first.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://joelcalifa.com/&quot;&gt;Joel Califa&lt;/a&gt;&lt;br /&gt;
+Has no images of actual design work on the homepage. Puts the designer’s story and experience first then mentions actual design work in link form towards the bottom.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://jessicahische.is/&quot;&gt;Jessica Hische&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.seangoodw.in/&quot;&gt;Sean Goodwin&lt;/a&gt;&lt;br /&gt;
+A Mason student who interned for us at Workhorse. Sean is most interested in UX and product design, so his portfolio is heavy on story and process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://klare.io/&quot;&gt;Klare Frank&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Design work &amp;gt; Biography &amp;gt; CTA&lt;br /&gt;
+Probably the most common portfolio…a large grid of images of work.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nicholasslater.co/&quot;&gt;Nick Slater&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.samdallyn.co.uk/&quot;&gt;Sam Dallyn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://heckhouse.com/&quot;&gt;Bethany Heck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.colingrist.com/&quot;&gt;Colin Grist&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Biography/CV (here as a classification…you will have to show work on your assignment)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.erondu.com/&quot;&gt;Jared Erondu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://colindunn.com/&quot;&gt;Colin Dunn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.iamtimhoover.com/&quot;&gt;Tim Hoover&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;aspirations&quot;&gt;Aspirations&lt;/h2&gt;
+
+&lt;p&gt;After looking at these and other examples. Think about your work and the work that you want to do. Take your research and begin to sketch out the vision for your portfolio.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;limitations&quot;&gt;Limitations&lt;/h2&gt;
+
+&lt;p&gt;Focus on concepts, reading order, user-flow instead of features or specific interactions. This is a good opportunity to self edit: remove projects from your portfolio, simplify interactions, edit out features.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;due-on-class-22-monday-may-11&quot;&gt;Due on Class 22, Monday, May 11&lt;/h2&gt;
+
+&lt;p&gt;Completed wireframes and style tiles for your site&lt;/p&gt;
+
+&lt;p&gt;In PDF format:
+Page 1: Cover page
+Page 2: Final wireframes
+Page 3-5: Style tiles&lt;/p&gt;
+
+&lt;p&gt;Submit your assignment here: &lt;a href=&quot;https://www.dropbox.com/request/XArdwovOerOzYY4fxcM8&quot;&gt;Submit Assignment Link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/06/class-21.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/06/class-21.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
+        <title>Assignment 5: Portfolio Wireframe and Style Tiles</title>
+        <description>&lt;h3 id=&quot;assignment-5-due-monday-april-11&quot;&gt;Assignment 5: Due Monday April 11&lt;/h3&gt;
+
+&lt;p&gt;Completed wireframes and style tiles for your portfolio site&lt;/p&gt;
+
+&lt;p&gt;In PDF format:
+Page 1: Cover page
+Page 2: Final wireframes
+Page 3-5: Style tiles&lt;/p&gt;
+
+&lt;p&gt;Submit your assignment here: &lt;a href=&quot;https://www.dropbox.com/request/XArdwovOerOzYY4fxcM8&quot;&gt;Submit Assignment Link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/assignments/2016/04/06/assignment-5.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/assignments/2016/04/06/assignment-5.html</guid>
+        
+        
+        <category>assignments</category>
+        
+      </item>
+    
+      <item>
+        <title>Project 3: Portfolio</title>
+        <description>&lt;h2 id=&quot;project-3-assigned&quot;&gt;Project 3 Assigned&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13VRB9QX27IOkW7esE2Lr4vWl3ALWuF4TpJrIyQ4NIyY/edit?usp=sharing&quot;&gt;Project 3 Is Here.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/projects/2016/04/04/project-3.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/projects/2016/04/04/project-3.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Class 20: Beauty in Web Design</title>
+        <description>&lt;h2 id=&quot;beauty-in-web-design&quot;&gt;Beauty in Web Design&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1x05DSXaS_D3Xt58A_MyE4IehC-NOPoGdVrEfqjWpY4c/edit?usp=sharing&quot;&gt;Presentation link&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/13VRB9QX27IOkW7esE2Lr4vWl3ALWuF4TpJrIyQ4NIyY/edit?usp=sharing&quot;&gt;Project 3 has been assigned.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/04/class-20.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/04/class-20.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 19: Your Work</title>
@@ -204,154 +340,6 @@ Prepare for our next &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/s
         <pubDate>Mon, 21 Mar 2016 00:00:00 -0400</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/21/class-16.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/21/class-16.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 15: One on One Meetings and Workshop</title>
-        <description>&lt;h1 id=&quot;update-to-project-2&quot;&gt;&lt;strong&gt;UPDATE TO PROJECT 2&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;No longer have to implement a separate Blog or News Section.
-Project 2 is due 3/23&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I would like to speak to everyone and see how your project’s are progressing.&lt;br /&gt;
-Sign up: &lt;a href=&quot;http://doodle.com/poll/pcdbim7vt3xf8w4xuq4638u4/admin&quot;&gt;One on One Project 2 Meetings&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;After Class Comments:&lt;/p&gt;
-
-&lt;p&gt;I noticed a lot of you are having trouble placing images in Wordpress. Use this snippet to place an image from your images folder:&lt;br /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;
-&amp;lt;img src=&quot;&amp;lt;?= get_template_directory_uri(); ?&amp;gt;/yourimagesfolder/imagename.jpg&quot;&amp;gt;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, for background images, many of you are using full width background images, so make sure you review your &lt;a href=&quot;http://www.w3schools.com/cssref/pr_background-image.asp&quot;&gt;CSS background image placement rules&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Namely a lot of you are using large background images, so look at &lt;code class=&quot;highlighter-rouge&quot;&gt;background-size&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;background-position&lt;/code&gt; rules.&lt;/p&gt;
-
-&lt;p&gt;Also, please ask questions if you have them. You don’t have to lose hours up on hours on something you could have gotten answered by asking a question.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;due-on-class-16-monday-321&quot;&gt;Due on Class 16 Monday 3/21&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Work on Project 2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Getting ready for our next seminar/discussion class which will be on March 30th
-* Read &lt;a href=&quot;http://www.underconsideration.com/speakup/archives/004033.html&quot;&gt;Landmark Web Sites, Where Art Thou?&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;http://www.cennydd.com/writing/beauty-in-web-design-part-1&quot;&gt;Beauty in web design, part 1&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;http://alistapart.com/article/the-web-aesthetic&quot;&gt;The Web Aesthetic&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;http://uxmyths.com/post/1161244116/myth-25-aesthetics-are-not-important-if-you-have-good-us&quot;&gt;Myth #25: Aesthetics are not important if you have good usability&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-aesthetics&quot;&gt;19. Visual Aesthetics by by Noam Tractinsky&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/16/class-15.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/16/class-15.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 14: Workshop</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; workshop&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/14/class-14.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/14/class-14.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 13: Workshop</title>
-        <description>&lt;p&gt;We will be making sure everyone is prepared to work on &lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; over the break.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;wordpress-pieces&quot;&gt;Wordpress pieces&lt;/h2&gt;
-&lt;p&gt;We will be looking at how a typical Wordpress theme is constructed/broken up&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;translating-pattern-lab-pdfs-to-code&quot;&gt;Translating Pattern Lab PDFs to code&lt;/h2&gt;
-&lt;p&gt;We will be seeing how some of the styles/patter lab systems translate to code for your projects&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;wordpress-installation-and-gitgithub-refresher&quot;&gt;Wordpress Installation and Git/Github Refresher&lt;/h2&gt;
-&lt;p&gt;Using this tutorial as our base: &lt;a href=&quot;https://bootstrapwp.com/setup-local-development-environment-wordpress/&quot;&gt;BootstrapWP - Local Wordpress Using MAMP&lt;/a&gt;&lt;br /&gt;
-* Download &lt;a href=&quot;https://desktop.github.com/&quot;&gt;Github Desktop Application&lt;/a&gt;&lt;br /&gt;
-* Start a new repo on your Github account&lt;br /&gt;
-* Clone your repo to your computer in a folder titled pro2&lt;br /&gt;
-* Download &lt;a href=&quot;https://www.mamp.info/en/downloads/&quot;&gt;MAMP&lt;/a&gt;&lt;br /&gt;
-* Download &lt;a href=&quot;https://wordpress.org/download/&quot;&gt;Wordpress&lt;/a&gt;&lt;br /&gt;
-* Place Wordpress files into your folder&lt;br /&gt;
-* Create a new database
-* Download this &lt;a href=&quot;https://gist.github.com/salcode/b515f520d3f8207ecd04&quot;&gt;.gitignore file&lt;/a&gt;
-* Make sure you are able to &lt;a href=&quot;http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/&quot;&gt;see hidden files&lt;/a&gt;&lt;br /&gt;
-* Copy the .gitignore file to your project folder
-* Start your MAMP servers&lt;br /&gt;
-* Go to your localhost &lt;a href=&quot;http://localhost&quot;&gt;http://localhost&lt;/a&gt; usually
-* Complete your wordpress install (username:root, password: root)&lt;br /&gt;
-* Download &lt;a href=&quot;http://themekraft.com/tk-wordpress-bootstrap-starter-theme/&quot;&gt;Underscores TK Theme&lt;/a&gt;&lt;br /&gt;
-* If you want to try your hand at a SASS version, download &lt;a href=&quot;http://understrap.com/&quot;&gt;Understrap&lt;/a&gt;&lt;br /&gt;
-- some extra steps for this one, so let’s do this together in class if you want to try it&lt;br /&gt;
-* Place your files in your themes folder&lt;br /&gt;
-* Troubleshoot&lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/02/class-13.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/02/class-13.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 12: Preprocessors and Workshop</title>
-        <description>&lt;h2 id=&quot;project-2-assigned&quot;&gt;Project 2 Assigned&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2 Is Here.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;sass-demonstration&quot;&gt;SASS Demonstration&lt;/h3&gt;
-&lt;p&gt;Introduction to CSS Preprocessors&lt;/p&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://sass-lang.com/guide&quot;&gt;Sass Basic Documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://alistapart.com/article/why-sass&quot;&gt;Why SASS?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.creativebloq.com/web-design/what-is-sass-111517618&quot;&gt;What is Sass? Guide to CSS with superpowers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;breaking-your-design-into-pieces&quot;&gt;Breaking your design into pieces&lt;/h3&gt;
-&lt;p&gt;Some examples of how to break your designs into modules, utilizing the principles of &lt;a href=&quot;http://demo.patternlab.io/&quot;&gt;Brad Frost’s Pattern Lab&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;we-will-be-delving-further-into-wordpress-in-the-next-few-weeks&quot;&gt;We will be delving further into Wordpress in the next few weeks&lt;/h3&gt;
-&lt;p&gt;Further help for people still behind on Wordpress workflow (MAMP setup)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;assignment-3-due-wednesday-march-2&quot;&gt;Assignment 3: Due Wednesday March 2&lt;/h3&gt;
-&lt;p&gt;Using Brad Frost’s Pattern Lab, set up your website’s basic Patterns. No coding necessary, can be done by pulling apart your prototype photoshop or illustrator file.&lt;/p&gt;
-
-&lt;p&gt;Save as PDF&lt;br /&gt;
-Name it: yourlastname_assignment3.pdf&lt;br /&gt;
-Upload to: &lt;a href=&quot;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&quot;&gt;https://www.dropbox.com/request/2K0MZrtdUoOoCKGNRzHz&lt;/a&gt;
-—&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/02/29/class-12.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/02/29/class-12.html</guid>
         
         
         <category>class</category>
