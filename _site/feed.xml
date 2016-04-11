@@ -5,8 +5,8 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2016 16:16:44 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2016 16:16:44 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 16:40:31 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 16:40:31 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -20,6 +20,7 @@
 
 &lt;p&gt;Sites&lt;br /&gt;
 &lt;a href=&quot;https://codyhouse.co/&quot;&gt;Cody House&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://tympanus.net/codrops/&quot;&gt;Codrops&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://littlesnippets.net/&quot;&gt;Little Snippets&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://codepen.io/patterns/&quot;&gt;Patterns on Codepen&lt;/a&gt;&lt;/p&gt;
 

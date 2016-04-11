@@ -15,6 +15,7 @@ The internet is full of awesome and awful examples, bits of codes and tutorials.
 
 Sites  
 [Cody House](https://codyhouse.co/)  
+[Codrops](http://tympanus.net/codrops/)  
 [Little Snippets](http://littlesnippets.net/)  
 [Patterns on Codepen](http://codepen.io/patterns/)  
 
