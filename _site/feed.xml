@@ -5,9 +5,40 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Apr 2016 14:56:03 -0400</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2016 14:56:03 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 16:16:44 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 16:16:44 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 22: Portfolios: Patterns in Code</title>
+        <description>&lt;h2 id=&quot;helpful-examples-and-bits&quot;&gt;Helpful examples and bits&lt;/h2&gt;
+
+&lt;p&gt;The internet is full of awesome and awful examples, bits of codes and tutorials. I want to provide you with some of the better ones in case you need inspiration/help implementing something you want to do:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://codepen.io/thehonestape/pen/jqZywZ&quot;&gt;Simple Thumbnail Gallery&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://tympanus.net/codrops/?s=thumbnail&amp;amp;search-type=posts&quot;&gt;Cool thumbnails&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sites&lt;br /&gt;
+&lt;a href=&quot;https://codyhouse.co/&quot;&gt;Cody House&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://littlesnippets.net/&quot;&gt;Little Snippets&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://codepen.io/patterns/&quot;&gt;Patterns on Codepen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Go back and look at the Patterns lecture for any additional information&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One on One Meetings to go over your wireframes and style tiles. Will pass around doodl on slack&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/06/class-22.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/06/class-22.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 21: Portfolios: Inspiration, Aspiration, and Limitations</title>
@@ -71,7 +102,7 @@ Probably the most common portfolio…a large grid of images of work.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;due-on-class-22-monday-may-11&quot;&gt;Due on Class 22, Monday, May 11&lt;/h2&gt;
+&lt;h2 id=&quot;due-on-class-22-monday-april-11&quot;&gt;Due on Class 22, Monday, April 11&lt;/h2&gt;
 
 &lt;p&gt;Completed wireframes and style tiles for your site&lt;/p&gt;
 
@@ -309,37 +340,6 @@ Prepare for our next &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/s
         <pubDate>Wed, 23 Mar 2016 00:00:00 -0400</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/23/class-17.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/23/class-17.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 16: Workshop</title>
-        <description>&lt;p&gt;Project 2 Workshop: Keep working on project 2&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;new-project-2-due-date&quot;&gt;&lt;strong&gt;New Project 2 Due Date&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;I know a lot of people have been working hard to get this project done but need more one on one time/class time to finish. So, I’m giving you all one more week to finish Project 2. I expect everyone to take full advantage of the extra studio time to create something awesome. See &lt;a href=&quot;https://docs.google.com/document/d/1a-XvGo3RrApTL9ONH6Mk9LThbGhGg90YZ-TK2pq_Er8/edit?usp=sharing&quot;&gt;Project 2&lt;/a&gt; docs for any other information.&lt;br /&gt;
-—&lt;/p&gt;
-
-&lt;h2 id=&quot;due-on-class-17-wednesday-323&quot;&gt;Due on Class 17 Wednesday 3/23&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Work on Project 2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Getting ready for our next seminar/discussion class which will be on March 30th&lt;br /&gt;
-* Read &lt;a href=&quot;http://www.cennydd.com/writing/beauty-in-web-design-part-2&quot;&gt;Beauty in web design, part 2&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;http://www.jnd.org/dn.mss/affordances_and.html&quot;&gt;Affordances and Design&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;https://uxmag.com/articles/functional-beauty-and-user-experience&quot;&gt;Functional Beauty and User Experience&lt;/a&gt;&lt;br /&gt;
-* Watch &lt;a href=&quot;https://www.youtube.com/watch?v=MjyjWPMqTrs&quot;&gt;Minimum Viable Personality with Fake Grimlock&lt;/a&gt;&lt;br /&gt;
-* Read &lt;a href=&quot;http://avc.com/2011/09/minimum-viable-personality/&quot;&gt;Minimum Viable Personality&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 21 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/21/class-16.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/21/class-16.html</guid>
         
         
         <category>class</category>
