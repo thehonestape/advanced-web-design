@@ -5,13 +5,34 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Apr 2016 16:42:37 -0400</pubDate>
-    <lastBuildDate>Wed, 13 Apr 2016 16:42:37 -0400</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 15:57:02 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 15:57:02 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
+        <title>Class 24: Project 3 Workshop</title>
+        <description>&lt;h2 id=&quot;studio&quot;&gt;Studio&lt;/h2&gt;
+
+&lt;p&gt;All of you should be in the development phase of your project. We will be working in class, answering questions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One on One Meetings to go over progress/coding help: &lt;a href=&quot;http://doodle.com/created?pollId=axmu2686e96kinhu&amp;amp;adminKey=bfeaep9s&quot;&gt;http://doodle.com/created?pollId=axmu2686e96kinhu&amp;amp;adminKey=bfeaep9s&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/18/class-24.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/18/class-24.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
+    
+      <item>
         <title>Class 23: Showing your work - Portfolio Workshop</title>
-        <description>&lt;h2 id=&quot;showing-off-your-work&quot;&gt;Showing off your work&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;showing-your-work&quot;&gt;Showing your work&lt;/h2&gt;
 
 &lt;p&gt;Awesome. You are making a portfolio website. You have your wireframes and style tiles ready. Let’s take a quick step back and think about how to display our work.&lt;/p&gt;
 
@@ -31,7 +52,7 @@
 
 &lt;p&gt;In context&lt;br /&gt;
 &lt;a href=&quot;http://graphicburger.com/5x-iphone-6-in-hand-mockups/&quot;&gt;Device Mockup&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://graphicburger.com/iphone-6-ipad-air-2-photo-mockups/&quot;&gt;Device Mockup&lt;/a&gt;
+&lt;a href=&quot;http://graphicburger.com/iphone-6-ipad-air-2-photo-mockups/&quot;&gt;Device Mockup&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://startupstockphotos.com/&quot;&gt;Startup Stock&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Abstract/Flat&lt;br /&gt;
@@ -321,45 +342,6 @@ https://www.dropbox.com/request/kufPJVnisXabY1hTkkLH&lt;/p&gt;
         
         
         <category>seminars</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 18: Project 2 Presentations</title>
-        <description>&lt;h2 id=&quot;project-2-presentations&quot;&gt;Project 2 Presentations&lt;/h2&gt;
-&lt;p&gt;Remember, speak clearly about your work. Talk about your design and development process with confidence and let us know how you arrived at your design solution.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;next-seminar-beauty-in-web-design-will-be-monday-april-4th-see-a-hrefadvanced-web-designseminars20160328seminar-2htmlseminar-2-informationa&quot;&gt;Next seminar, Beauty in Web Design will be Monday April, 4th. See &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/seminar-2.html&quot;&gt;seminar 2 information&lt;a&gt;.&lt;/a&gt;&lt;/a&gt;&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Turning in Project 2&lt;br /&gt;
-This depends on your webhost, but these are the general instructions. If you have questions about this, please ask them sooner rather than later.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Login to your webhost&lt;/li&gt;
-  &lt;li&gt;Create a new subdomain (yourprojectname.yourwebsitename.com)&lt;/li&gt;
-  &lt;li&gt;Create a new database&lt;/li&gt;
-  &lt;li&gt;Connect to your server via FTP&lt;/li&gt;
-  &lt;li&gt;Put your files on the server inside of the subdomain (all files, not just the folder)&lt;/li&gt;
-  &lt;li&gt;Adjust your wp-config file to reflect your new database information&lt;/li&gt;
-  &lt;li&gt;Post your link in Slack #projects channel&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;due-on-class-19-wednesday-330&quot;&gt;Due on Class 19 Wednesday 3/30&lt;/h2&gt;
-&lt;p&gt;Project 2&lt;br /&gt;
-Prepare for our next &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/seminar-2.html&quot;&gt;Seminar&lt;a&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 28 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/28/class-18.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/28/class-18.html</guid>
-        
-        
-        <category>class</category>
         
       </item>
     
