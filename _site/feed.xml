@@ -5,9 +5,52 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 15:58:04 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 15:58:04 -0400</lastBuildDate>
+    <pubDate>Wed, 20 Apr 2016 16:29:36 -0400</pubDate>
+    <lastBuildDate>Wed, 20 Apr 2016 16:29:36 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 25: Cross Browser Testing &amp; Project 3 Workshop</title>
+        <description>&lt;h2 id=&quot;cross-browser-testing&quot;&gt;Cross Browser Testing&lt;/h2&gt;
+
+&lt;p&gt;Not all browsers are created equally, therefore you must be cognizant of what works on different browsers&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://caniuse.com/&quot;&gt;Can I Use&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Free Testing&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://browsershots.org/&quot;&gt;Browser Shots&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://turbo.net/browsers&quot;&gt;Browser Sandbox&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.viewlike.us/&quot;&gt;View Like Us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paid Testing&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.browserstack.com&quot;&gt;Browser Stack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Native Tools&lt;/strong&gt;&lt;br /&gt;
+All your browsers&lt;br /&gt;
+&lt;a href=&quot;https://developer.apple.com/xcode/&quot;&gt;X Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cool Dev Tools to Help You Develop&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://atom.io/packages/livereload&quot;&gt;LiveReload for Atom&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://emmet.io/&quot;&gt;Emmet&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://atom.io/packages/emmet&quot;&gt;Emmet for Atom&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://atom.io/packages/autoprefixer&quot;&gt;Atom Autoprefixer&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://atom.io/packages/atom-beautify&quot;&gt;Atom Beautify&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One on One Meetings to go over progress/coding help:   &lt;a href=&quot;http://doodle.com/poll/mkmstfz75hhqw4nt&quot;&gt;http://doodle.com/poll/mkmstfz75hhqw4nt&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/20/class-25.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/20/class-25.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 24: Project 3 Workshop</title>
@@ -304,44 +347,6 @@ https://www.dropbox.com/request/kufPJVnisXabY1hTkkLH&lt;/p&gt;
         
         
         <category>assignments</category>
-        
-      </item>
-    
-      <item>
-        <title>Seminar: Beauty in Web Design</title>
-        <description>&lt;h2 id=&quot;seminar-will-be-monday-april-4th&quot;&gt;Seminar will be Monday April 4th.&lt;/h2&gt;
-
-&lt;p&gt;Like the last one, this will be a mostly lecture class, discussing the following readings. Come prepared with questions, insights and opinions on the material.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;ul&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.underconsideration.com/speakup/archives/004033.html&quot;&gt;Landmark Web Sites, Where Art Thou?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.cennydd.com/writing/beauty-in-web-design-part-1&quot;&gt;Beauty in web design, part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://alistapart.com/article/the-web-aesthetic&quot;&gt;The Web Aesthetic&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://uxmyths.com/post/1161244116/myth-25-aesthetics-are-not-important-if-you-have-good-us&quot;&gt;Myth #25: Aesthetics are not important if you have good usability&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read &lt;a href=&quot;https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/visual-aesthetics&quot;&gt;19. Visual Aesthetics by by Noam Tractinsky&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.cennydd.com/writing/beauty-in-web-design-part-2&quot;&gt;Beauty in web design, part 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.jnd.org/dn.mss/affordances_and.html&quot;&gt;Affordances and Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;https://uxmag.com/articles/functional-beauty-and-user-experience&quot;&gt;Functional Beauty and User Experience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Watch &lt;a href=&quot;https://www.youtube.com/watch?v=MjyjWPMqTrs&quot;&gt;Minimum Viable Personality with Fake Grimlock&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read &lt;a href=&quot;http://avc.com/2011/09/minimum-viable-personality/&quot;&gt;Minimum Viable Personality&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.cennydd.com/writing/beauty-in-web-design-part-3&quot;&gt;Beauty in web design, part 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Check out &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big DetailsAboutArchiveRSSSubmit Detail&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;http://www.nytimes.com/2016/02/11/fashion/cooper-hewitts-triennial-asks-what-makes-something-beautiful.html&quot;&gt;Cooper Hewitt’s Triennial Asks: What Makes Something Beautiful&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Read &lt;a href=&quot;https://collection.cooperhewitt.org/exhibitions/69155413&quot;&gt;BEAUTY—COOPER HEWITT DESIGN TRIENNIAL&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Check out the videos on &lt;a href=&quot;https://collection.cooperhewitt.org/exhibitions/69155413/videos/&quot;&gt;BEAUTY—COOPER HEWITT DESIGN TRIENNIAL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 28 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/seminars/2016/03/28/seminar-2.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/seminars/2016/03/28/seminar-2.html</guid>
-        
-        
-        <category>seminars</category>
         
       </item>
     
