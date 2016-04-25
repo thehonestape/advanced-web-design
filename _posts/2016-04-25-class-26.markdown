@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Class 26: Workshop and Snippets"
-date:   2016-04-20
+date:   2016-04-25
 categories: class
 ---
 
