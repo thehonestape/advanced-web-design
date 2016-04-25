@@ -5,9 +5,52 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Apr 2016 16:29:36 -0400</pubDate>
-    <lastBuildDate>Wed, 20 Apr 2016 16:29:36 -0400</lastBuildDate>
+    <pubDate>Mon, 25 Apr 2016 15:57:51 -0400</pubDate>
+    <lastBuildDate>Mon, 25 Apr 2016 15:57:51 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 26: Workshop and Snippets</title>
+        <description>&lt;h2 id=&quot;workshop&quot;&gt;Workshop&lt;/h2&gt;
+&lt;p&gt;Only one week until you projects are due. I hope everyone is ready to put in one final big final week of work to finalize your sites.&lt;/p&gt;
+
+&lt;h2 id=&quot;snippets&quot;&gt;Snippets&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Masonry&lt;/strong&gt;&lt;br /&gt;
+Bootstrap + Masonry : &lt;a href=&quot;http://codepen.io/thehonestape/pen/yOxVYq&quot;&gt;http://codepen.io/thehonestape/pen/yOxVYq&lt;/a&gt;&lt;br /&gt;
+Bootstrap + Masonry (no-margins): &lt;a href=&quot;http://codepen.io/thehonestape/pen/GZXNdv&quot;&gt;http://codepen.io/thehonestape/pen/GZXNdv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Forked from David Desandro’s Codepen and modified to appear as thumbnails.&lt;/p&gt;
+
+&lt;p&gt;Must have &lt;a href=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js&quot;&gt;Masonry&lt;/a&gt; installed.&lt;/p&gt;
+
+&lt;p&gt;Look at their documentation for information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hide Navbar, Show When Scroll Up&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://wicky.nillia.ms/headroom.js/&quot;&gt;Headroom&lt;/a&gt;  : Auto hide navbar until you scroll up&lt;br /&gt;
+&lt;a href=&quot;https://github.com/istvan-ujjmeszaros/bootstrap-autohidingnavbar&quot;&gt;Bootstrap Auto-Hiding Navbar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Page Transitions&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://smoothstate.com/&quot;&gt;http://smoothstate.com/&lt;/a&gt;&lt;br /&gt;
+&lt;sub&gt;&lt;sup&gt;some known issues with wordpress plugins&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating Pagination on Static Websites&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.wesedholm.com/2010/12/19/solution-use-jquery-on-a-static-site-to-automatically-link-together-pages-in-a-back-and-next-fashion/&quot;&gt;Next and Previous Pages for Static Sites&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One on One Meetings to go over progress/coding help:   &lt;a href=&quot;http://doodle.com/poll/abcsdn8ptn9e8hm4&quot;&gt;http://doodle.com/poll/abcsdn8ptn9e8hm4&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/20/class-26.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/20/class-26.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 25: Cross Browser Testing &amp; Project 3 Workshop</title>
@@ -321,32 +364,6 @@ Page 3-5: Style tiles&lt;/p&gt;
         
         
         <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Assignment 4</title>
-        <description>&lt;h3 id=&quot;assignment-4-due-monday-april-4&quot;&gt;Assignment 4: Due Monday April 4&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Synopsis&lt;/em&gt;
-I want you to look through your current body of work and pick out three pieces that you feel define you. For each piece, tell me why this piece is important to you.&lt;/p&gt;
-
-&lt;p&gt;Next, I want you to tell me the type of work you want to do.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;format&quot;&gt;Format&lt;/h2&gt;
-&lt;p&gt;1-2 page PDF, nicely designed, depicting each piece and your explanation. Each explanation should be about 3-5 sentences. The last section should also be about 5-10 sentences.&lt;/p&gt;
-
-&lt;p&gt;Submit your PDF here:
-https://www.dropbox.com/request/kufPJVnisXabY1hTkkLH&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/assignments/2016/03/30/assignment-4.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/assignments/2016/03/30/assignment-4.html</guid>
-        
-        
-        <category>assignments</category>
         
       </item>
     
