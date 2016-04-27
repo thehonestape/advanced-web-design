@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Class 27: Final Workshop"
+date:   2016-04-27
+categories: class
+---
+
+## Workshop  
+Last day of in class workshops
+
+## Keeping Your Database Synced
+Exporting, importing and keeping your database synced from local > staging > production is one of the trickiest parts of Wordpress development. Here are a few resources to help you.
+
+[WP Sync DB](https://github.com/wp-sync-db/wp-sync-db)  
+Syncing via plugin is one of the most user friendly ways to complete this process.
+
+[Export and Import Manuall via PHPMyAdmin](https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases)  
+Can be tedious, but useful in a pinch
+
+## Backing Up Your Site
+
+Plugins  
+[BackupWordpress](https://wordpress.org/plugins/backupwordpress/)  
+
+## Other useful plugins
+[Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)  
+[W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)  
+[Contact Form 7](https://wordpress.org/plugins/contact-form-7/)   
+[Jetpack](https://wordpress.org/plugins/jetpack/)  
+
+
+## Your Sites Social and Analtyics Settings ##
+[Set Up Google Analytics](https://support.google.com/analytics/answer/1008080?hl=en)  
+The basic code setup should have come with the Initilizer document, just need to place your tracking code.
+
+[Facebook Open Graph for Websites](https://developers.facebook.com/docs/reference/opengraph/object-type/website/)  
+[Facebook Open Graph Debugger](https://developers.facebook.com/tools/debug/)  
+
+
+
+---
+
+One on One Meetings to go over progress/coding help:   [http://doodle.com/poll/nzvymfrz7hqyxfm6](http://doodle.com/poll/nzvymfrz7hqyxfm6)  
+
+---

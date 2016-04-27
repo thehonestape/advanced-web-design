@@ -5,9 +5,56 @@
     <description>Course site for AVT 415</description>
     <link>http://thehonestape.github.io//advanced-web-design/</link>
     <atom:link href="http://thehonestape.github.io//advanced-web-design/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Apr 2016 15:57:51 -0400</pubDate>
-    <lastBuildDate>Mon, 25 Apr 2016 15:57:51 -0400</lastBuildDate>
+    <pubDate>Wed, 27 Apr 2016 16:07:53 -0400</pubDate>
+    <lastBuildDate>Wed, 27 Apr 2016 16:07:53 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Class 27: Final Workshop</title>
+        <description>&lt;h2 id=&quot;workshop&quot;&gt;Workshop&lt;/h2&gt;
+&lt;p&gt;Last day of in class workshops&lt;/p&gt;
+
+&lt;h2 id=&quot;keeping-your-database-synced&quot;&gt;Keeping Your Database Synced&lt;/h2&gt;
+&lt;p&gt;Exporting, importing and keeping your database synced from local &amp;gt; staging &amp;gt; production is one of the trickiest parts of Wordpress development. Here are a few resources to help you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/wp-sync-db/wp-sync-db&quot;&gt;WP Sync DB&lt;/a&gt;&lt;br /&gt;
+Syncing via plugin is one of the most user friendly ways to complete this process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases&quot;&gt;Export and Import Manuall via PHPMyAdmin&lt;/a&gt;&lt;br /&gt;
+Can be tedious, but useful in a pinch&lt;/p&gt;
+
+&lt;h2 id=&quot;backing-up-your-site&quot;&gt;Backing Up Your Site&lt;/h2&gt;
+
+&lt;p&gt;Plugins&lt;br /&gt;
+&lt;a href=&quot;https://wordpress.org/plugins/backupwordpress/&quot;&gt;BackupWordpress&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;other-useful-plugins&quot;&gt;Other useful plugins&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://wordpress.org/plugins/wordpress-seo/&quot;&gt;Yoast SEO&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://wordpress.org/plugins/w3-total-cache/&quot;&gt;W3 Total Cache&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://wordpress.org/plugins/contact-form-7/&quot;&gt;Contact Form 7&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://wordpress.org/plugins/jetpack/&quot;&gt;Jetpack&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;your-sites-social-and-analtyics-settings&quot;&gt;Your Sites Social and Analtyics Settings&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.google.com/analytics/answer/1008080?hl=en&quot;&gt;Set Up Google Analytics&lt;/a&gt;&lt;br /&gt;
+The basic code setup should have come with the Initilizer document, just need to place your tracking code.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://developers.facebook.com/docs/reference/opengraph/object-type/website/&quot;&gt;Facebook Open Graph for Websites&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://developers.facebook.com/tools/debug/&quot;&gt;Facebook Open Graph Debugger&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One on One Meetings to go over progress/coding help:   &lt;a href=&quot;http://doodle.com/poll/nzvymfrz7hqyxfm6&quot;&gt;http://doodle.com/poll/nzvymfrz7hqyxfm6&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/27/class-27.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/27/class-27.html</guid>
+        
+        
+        <category>class</category>
+        
+      </item>
     
       <item>
         <title>Class 26: Workshop and Snippets</title>
@@ -43,9 +90,9 @@ Bootstrap + Masonry (no-margins): &lt;a href=&quot;http://codepen.io/thehonestap
 
 &lt;hr /&gt;
 </description>
-        <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/20/class-26.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/20/class-26.html</guid>
+        <pubDate>Mon, 25 Apr 2016 00:00:00 -0400</pubDate>
+        <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/25/class-26.html</link>
+        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/25/class-26.html</guid>
         
         
         <category>class</category>
@@ -321,46 +368,6 @@ Page 3-5: Style tiles&lt;/p&gt;
         <pubDate>Mon, 04 Apr 2016 00:00:00 -0400</pubDate>
         <link>http://thehonestape.github.io//advanced-web-design/class/2016/04/04/class-20.html</link>
         <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/04/04/class-20.html</guid>
-        
-        
-        <category>class</category>
-        
-      </item>
-    
-      <item>
-        <title>Class 19: Your Work</title>
-        <description>&lt;h2 id=&quot;project-2&quot;&gt;Project 2&lt;/h2&gt;
-&lt;p&gt;We will be going over last minute items on Project 2.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;We will be transitioning slowly over to Project 3. First, by talking about you, your work and preparing you to talk about and present your work in the best way possible.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Kkd8OSDa55A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;your-work--you&quot;&gt;Your Work = You&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Your job does not define you, but your work does.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Your creative practice is everything you make, write, say, see, read, eat, hear, etc... Everything counts. Make sure to pay attention.&lt;/p&gt;&amp;mdash; Mitch Goldstein (@mgoldst) &lt;a href=&quot;https://twitter.com/mgoldst/status/714661216661213189&quot;&gt;March 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;I want you to spend the next week and weekend thinking about yourself and work. Think about the work you’ve created thus far and think about the work you want to do. Then, complete Assignment 4.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;due-on-class-20th-monday-april-4th&quot;&gt;Due on Class 20th Monday, April 4th&lt;/h2&gt;
-&lt;p&gt;All readings for &lt;a href=&quot;/advanced-web-design/seminars/2016/03/28/seminar-2.html&quot;&gt;Seminar 2&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;assignment-4&quot;&gt;Assignment 4&lt;/h1&gt;
-&lt;p&gt;See &lt;a href=&quot;/advanced-web-design/assignments/2016/03/30/assignment-4.html&quot;&gt;Assignment 4 Post&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
-        <link>http://thehonestape.github.io//advanced-web-design/class/2016/03/30/class-19.html</link>
-        <guid isPermaLink="true">http://thehonestape.github.io//advanced-web-design/class/2016/03/30/class-19.html</guid>
         
         
         <category>class</category>
